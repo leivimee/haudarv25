@@ -108,19 +108,24 @@ for(ii in 1:nrow(atr)) {
   
   
   if(ii==1) {
-    survey.obs.new <- siteobs %>% st_drop_geometry()
+    survey.obs.new <- siteobs #%>% st_drop_geometry()
     survey.seg.new <- sitetrack
   } else {
     survey.obs.new <- survey.obs.new %>%
-      bind_rows(siteobs %>% st_drop_geometry())
+      bind_rows(
+        siteobs #%>% st_drop_geometry()
+        )
     survey.seg.new <- survey.seg.new %>% bind_rows(sitetrack)
   }
   setTxtProgressBar(pb, ii)
 }
 
 vaatlus<-survey.obs.new %>%
+  mutate(Y=st_coordinates(.)[,1], X=st_coordinates(.)[,2]) %>%
   select(
     id,
+    skeem,
+    transekt,
     liik,
     arv,
     tkood,
