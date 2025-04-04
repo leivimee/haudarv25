@@ -47,6 +47,8 @@ loendustulemused on failis
 [atlase-transektid-2021-2024-vaatlused.csv](./src/atlas/atlase-transektid-2021-2024-vaatlused.csv).
 Vaatluste failidel on järgnevad andmeväljad.
 
+**Tabel.** Vaatluste meta-andmete väljad.
+
 | Nimi | Tüüp | Kirjeldus |
 |:---|:---|:---|
 | order | numeric | vaatluse järjekorranumber digitaliseerimisel |
@@ -79,6 +81,8 @@ koondatud faili
 Failis sisalduvad nii varasemate loenduste meta-andmed, kui ka 2021-2024
 loenduste meta-andmed.
 
+**Tabel.** Loenduste meta-andmete väljad.
+
 | Nimi | Tüüp | Kirjeldus |
 |:---|:---|:---|
 | order | numeric | vaatluse järjekorranumber digitaliseerimisel |
@@ -107,24 +111,24 @@ loenduste meta-andmed.
 
 Soome transektide loendustel läbitud teekondade soorituslikud
 geomeetriad 5 m täpsusega on esitatud geopaki
-[soome-transekt.gpkg](./src/soome/soome-transekt.gpkg) kihil ‘rada’.
-Transktide algupärased geomeetriad on esitatud sama geopaki kihil
-‘transekt’. Geomeetriate juures on kaasas kolm andmevälja: *id* -
-transekti number, *year* - loenduse aasta ja *len* - pikkus meetrites
-(km). Kuna ‘rada’ on tuletatud GPS-teekondade põhjal, siis sisaldab, see
-nii loendaja kõrvalekaldest tingitud nihkeid kui ka GPS-ebatäpsustest
-tulenevaid nihkeid võrreldes algupäraste transektidega ning on ka
-seetõttu pikemad. Kui transektide kogupikkus on 401,3 km, siis nendel
-sooritatud radade kogupikkus on 450,6 km.
+[soome-transekt.gpkg](./src/soome) kihil ‘rada’. Transktide algupärased
+geomeetriad on esitatud sama geopaki kihil ‘transekt’. Geomeetriate
+juures on kaasas kolm andmevälja: *id* - transekti number, *year* -
+loenduse aasta ja *len* - pikkus meetrites (km). Kuna ‘rada’ on
+tuletatud GPS-teekondade põhjal, siis sisaldab, see nii loendaja
+kõrvalekaldest tingitud nihkeid kui ka GPS-ebatäpsustest tulenevaid
+nihkeid võrreldes algupäraste transektidega ning on ka seetõttu pikemad.
+Kui transektide kogupikkus on 401,3 km, siis nendel sooritatud radade
+kogupikkus on 450,6 km.
 
 Atlase transektide loendustel kasutatud transektide geomeetriad on
-esitatud geopaki [atlas-transekt.gpkg](./src/atlas/atlas-transekt.gpkg)
-kihil ‘transekt’. Geomeetriate juures on kaasas kolm andmevälja: *id* -
-transekti number, *year* - loenduse aasta ja *len* - pikkus meetrites
-(km). Loenduste GPS-andmeid pole käesoleva sisuga läbi töötatud,
-mistõttu geopakis ei ole analoogset kihti ‘rada’, nagu Soome transektide
-puhul. Atlase transektid 122, 123 jäid perioodil 2021-2024 loendamata,
-mistõttu on nende tabelandmetes *year* väljad tühjad.
+esitatud geopaki [atlas-transekt.gpkg](./src/atlas) kihil ‘transekt’.
+Geomeetriate juures on kaasas kolm andmevälja: *id* - transekti number,
+*year* - loenduse aasta ja *len* - pikkus meetrites (km). Loenduste
+GPS-andmeid pole käesoleva sisuga läbi töötatud, mistõttu geopakis ei
+ole analoogset kihti ‘rada’, nagu Soome transektide puhul. Atlase
+transektid 122, 123 jäid perioodil 2021-2024 loendamata, mistõttu on
+nende tabelandmetes *year* väljad tühjad.
 
 ## Andmete töötlus
 
@@ -136,11 +140,11 @@ kokku kuuele ribale: 1-0..25, 2-25..50, 3-50..100, 4-100..150,
 5-150..200, 6-200..250. Kogu ettevalmistuse protseduur on kirjeldatud
 koodis [01-loendus.R](./R/01-loendus.R), mille tulemused (objektid
 `vaatlus` ja `loendus`) on salvestatud faili
-[loendus-20250404.RData](./data/loendus-20250404.RData).
+[loendus-20250404.RData](./data).
 
-> :warning: Edasisel andmeanalüüsil on tungivalt soovitatav välja
-> jätta rajad, kus loendati linde vaid põhiribal. Nendeks olid
-> transektid 180, 201, 209, 215, 223, 224, 229, 232.
+> :warning: Edasisel andmeanalüüsil on tungivalt soovitatav välja jätta
+> rajad, kus loendati linde vaid põhiribal. Nendeks olid transektid 180,
+> 201, 209, 215, 223, 224, 229, 232.
 
 ## Kasutatud allikad
 
