@@ -133,7 +133,7 @@ nende tabelandmetes *year* väljad tühjad.
 ## Andmete kasutamine
 
 Andmete kasutamise hõlbustamiseks on loendused ning vaatlused pakitud R
-andmefailideks. Igale vaatlusele arvutatud kaugus transektijoonest,
+andmefailideks. Igale vaatlusele on arvutatud kaugus transektijoonest,
 mille põhjal arvutati uus ribakaugus kokku kuuele ribale: 1-0..25,
 2-25..50, 3-50..100, 4-100..150, 5-150..200, 6-200..250. Töötlusest
 jäeti välja vaatlused, mille puhul paaride arv oli 0 (PAIRS\<1). Samuti
