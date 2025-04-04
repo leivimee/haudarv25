@@ -94,7 +94,7 @@ loenduste meta-andmed.
 | TIME START | hms | loenduse algusaeg, HH:MM |
 | TIME FINISH | hms | loenduse lõpu aeg, HH:MM |
 | START CORNER | character | alguse nurgapunkt, ilmakaar |
-| MOVEMENT DIRECTION FROM START | character | liikumise alguspunkt SE-nurgapunktist, meetites |
+| MOVEMENT DIRECTION FROM START | character | liikumise alguspunkt SE-nurgapunktist, meetrites |
 | START FROM SE-CORNER CLOCKWISE | character | liikumise suund alguspunktist, ilmakaar või päripäeva/vastupäeva |
 | DISTANCE COVERED | numeric | läbitud distants, km |
 | ACTUAL TRANSECT LENGTH | numeric | transekti pikkus, km |
@@ -115,11 +115,11 @@ geomeetriad 5 m täpsusega on esitatud geopaki
 geomeetriad on esitatud sama geopaki kihil ‘transekt’. Geomeetriate
 juures on kaasas kolm andmevälja: *id* - transekti number, *year* -
 loenduse aasta ja *len* - pikkus meetrites (km). Kuna ‘rada’ on
-tuletatud GPS-teekondade põhjal, siis sisaldab, see nii loendaja
+tuletatud GPS-teekondade põhjal, siis sisaldab see nii loendaja
 kõrvalekaldest tingitud nihkeid kui ka GPS-ebatäpsustest tulenevaid
-nihkeid võrreldes algupäraste transektidega ning on ka seetõttu pikemad.
-Kui transektide kogupikkus on 401,3 km, siis nendel sooritatud radade
-kogupikkus on 450,6 km.
+nihkeid võrreldes algupäraste transektidega. Seetõttu on GPS-rajad
+pikemad. Kui transektide kogupikkus on 401,3 km, siis nendel sooritatud
+radade kogupikkus on 450,6 km.
 
 Atlase transektide loendustel kasutatud transektide geomeetriad on
 esitatud geopaki [atlas-transekt.gpkg](./src/atlas) kihil ‘transekt’.
@@ -144,8 +144,33 @@ koodis [01-loendus.R](./R/01-loendus.R), mille tulemused (objektid
 [loendus-20250404.RData](./data). Objektid `vaatlus`ja `loendus`
 kuuluvad klassi sf (*simple features*) ja tibble/data.frame, ning nende
 korrektseks kasutamiseks on vajalik R (R Core Team 2020) pakettide sf
-(Pebesma 2018) ja tidyverse (Wickham et al. 2019) olemasolu. Järgnevalt
-on toodud näide, kuidas andmeid R töökeskkonda lugeda.
+(Pebesma 2018) ja tidyverse (Wickham et al. 2019) olemasolu.
+
+Andmeväljade nimed objektil `vaatlus` on järgnevad.
+
+**Tabel.** Objekti `vaatlus` andmeväljad.
+
+| Nimi | Tüüp | Kirjeldus |
+|:---|:---|:---|
+| id | integer | vaatluse id-number |
+| skeem | character | skeem, ‘atlas’ või ‘soome’ |
+| transekt | numeric | transekti number (Soome: 3661-3907, Atlas: 1-125) |
+| liik | character | liigi 3+3 kood vastavalt EOÜ Eesti lindude nimestikule |
+| arv | numeric | isendite arv |
+| tkood | character | PlutoF tegevuskood: p-paikne, ü-ülelennul, r-rändel, s - laul, häälitsus |
+| sugu | character | sugu, Isane/Emane |
+| pkood | character | linnuatlase pesitsuskindluse kood |
+| paare | numeric | paaride arv |
+| riba | numeric | loendusriba: 1-põhiriba (0-25 m), 2-abiriba (25-50 m), 3-lisariba (50-.. m) |
+| band | integer | loendusriba 0-250 m, jaotusega 6ks vahemikuks |
+| dist | numeric | ristkaugus |
+| märkus | character | märkused |
+| aasta | numeric | loenduse aasta |
+| kuupv | Date | loenduse kuupäev, YYYY-MM-DD |
+| obsrvr | character | loendaja |
+| geometry | sfc_POINT |  |
+
+Järgnevalt on toodud näide, kuidas andmeid R töökeskkonda lugeda.
 
 ``` r
 # install.packages(c("sf", "tidyverse"))
@@ -170,7 +195,21 @@ vaatlusinfo.
 ``` r
 # install.packges("Distance")
 library(Distance)
+```
 
+    ## Loading required package: mrds
+
+    ## This is mrds 3.0.0
+    ## Built: R 4.3.3; ; 2025-02-08 02:50:07 UTC; windows
+
+    ## 
+    ## Attaching package: 'Distance'
+
+    ## The following object is masked from 'package:mrds':
+    ## 
+    ##     create.bins
+
+``` r
 # vali liigiks metsvint
 sp <- "FRICOE"
 
@@ -185,16 +224,76 @@ observation.data <- vaatlus %>%
   filter(!transekt %in% c(180, 201, 209, 215, 223, 224, 229, 232)) %>%
   rename(Sample.Label=transekt, size=paare, object=id, distance=dist) %>%
   filter(liik==sp) %>%
-  select(Sample.Label,object,distance,size) %>%
+  select(Sample.Label,object,distance,size,riba) %>%
   st_drop_geometry()
 
 flatfile <- segment.data %>%
   left_join(observation.data, by="Sample.Label") %>%
   mutate(size=replace_na(size, 0))
-
-fricoe.hr.null <- ds(flatfile, truncation=50, formula=~1, cutpoints=c(0,25,50), key="hr", adjustment=NULL, convert_units=0.001)
-fricoe.hn.null <- ds(flatfile, truncation=50, formula=~1, cutpoints=c(0,25,50), key="hn", adjustment=NULL, convert_units=0.001)
 ```
+
+Registreeritud lindude arvu 25 m laiuste ribade kaupa kuni 250 meetrini
+on võimalik visualiseerida järgnevalt.
+
+``` r
+flatfile %>%
+  filter(distance<250) %>%
+  mutate(band=cut(distance,seq(0,250,25), right=F)) %>%
+  group_by(band) %>%
+  summarise(arv=sum(size)) %>%
+  ggplot()+
+  geom_bar(aes(x=band,y=arv), stat="identity")+
+  theme_minimal()
+```
+
+![](README_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+
+Lihtsa, vaid põhi ja abiriba vaatlusi arvestava arvukushinnangu saab
+anda distants-mudeli abil.
+
+``` r
+fricoe.unif.null <-ds(
+  flatfile, 
+  truncation=50, 
+  formula=~1, 
+  cutpoints=c(0,25,50), 
+  key="unif", 
+  adjustment=NULL, 
+  convert_units=0.001
+)
+```
+
+    ## Fitting uniform key function
+
+    ## AIC= 3512.87
+
+``` r
+fricoe.sum<-summary(fricoe.unif.null)
+```
+
+**Tabel.** Metsvindi üldasustustihedus.
+
+| Label | Estimate | se  | cv    | lcl  | ucl  |  df |
+|:------|:---------|:----|:------|:-----|:-----|----:|
+| Total | 28,6     | 1,3 | 0,045 | 26,2 | 31,3 | 193 |
+
+**Tabel.** Metsvindi üldarvukus.
+
+| Label | Estimate  | se     | cv    | lcl       | ucl       |  df |
+|:------|:----------|:-------|:------|:----------|:----------|----:|
+| Total | 1 296 244 | 58 633 | 0,045 | 1 185 662 | 1 417 140 | 193 |
+
+Mudeli sobitust saab kontrollida järgnevalt.
+
+``` r
+fricoe.fit<-gof_ds(fricoe.unif.null)
+chisq <- fricoe.fit$chisquare$chi1$chisq
+p <- fricoe.fit$chisquare$chi1$p
+df <- fricoe.fit$chisquare$chi1$df
+```
+
+Hii-ruut testi kohaselt võib mudelit lugeda sobituvaks
+($\chi^2_{df=1}$=0,10; p=0,751).
 
 ## Kasutatud allikad
 
