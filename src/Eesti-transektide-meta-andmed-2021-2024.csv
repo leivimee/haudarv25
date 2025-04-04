@@ -1,0 +1,395 @@
+﻿"order";"id";"TRANSECT NAME";"OBSRVR";"COUNTY";"DATE";"TIME START";"TIME FINISH";"START CORNER";"MOVEMENT DIRECTION FROM START";"START FROM SE-CORNER CLOCKWISE";"DISTANCE COVERED";"ACTUAL TRANSECT LENGTH";"COUNT_YEAR";"DATE DIFFERENCE TO LAST COUNT (+/- DAYS)";"YEARS FROM LAST COUNT";"SAME OBSERVER THAN LAST TIME?";"Imetajad loetud y/n";"INFO1";"INFO2";"ATLAS_SQUARE";"I";"SELGITUSTÖÖ"
+"1";"3661";"Kärla Käesla";"Margus Ellermaa";"Saare";"2000-05-25";"03:30";"08:15";"NE";"W-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"2";"3662";"Lümanda Lümanda";"Aivo Klein";"Saare";"2000-05-25";"03:20";"08:25";"SW";"NE-sse";"N.A.";"5,00";"5,40";"2000";;;;"n";"loendati 5.0 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"3";"3663";"Kaarma Tõrise";"Margus Ellermaa";"Saare";"2000-05-26";"03:30";"07:57";"E";"S-i";"N.A.";"5,50";"6,10";"2000";;;;"n";"2000 loeti 5.50 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"4";"3664";"Leisi Luulupe";"Aivo Klein";"Saare";"2000-05-26";"03:40";"09:00";"N";"S-i";"N.A.";"5,00";"5,60";"2000";;;;"n";"2000 loeti 5.0 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"5";"3667";"Halinga Sõõrike";"Margus Ellermaa";"Pärnu";"2000-05-28";"03:20";"08:42";"SW";"NE-sse";"N.A.";"6,80";"6,70";"2000";;;;"n";"2000 loeti 6.8 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"6";"3668";"Halinga Maima";"Aivo Klein";"Pärnu";"2000-05-28";"03:16";"07:40";"W";"SE-sse";"N.A.";"5,50";"5,90";"2000";;;;"n";"2000 loeti 5.5 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"7";"3669";"Raikküla Lipametsa";"Margus Ellermaa";"Rapla";"2000-05-29";"03:19";"08:30";"WNW";"NE-sse";"N.A.";"5,60";"5,60";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"8";"3670";"Raikküla Raikküla";"Aivo Klein";"Rapla";"2000-05-29";"03:31";"08:05";"NE";"S-i";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"9";"3671";"Häädemeeste Tolkuse";"Aivo Klein";"Pärnu";"2000-05-30";"04:09";"08:00";"E";"W-sse";"N.A.";"5,05";"5,05";"2000";;;;"n";"Algust nihutati vihma pärast päikesetõusut tunniga hilisemaks.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"10";"3672";"Häädemeeste Aruküla";"Margus Ellermaa";"Pärnu";"2000-05-30";"04:24";"09:08";"W";"SE-sse";"N.A.";"5,30";"5,30";"2000";;;;"n";"Algust nihutati vihma pärast päikesetõusut tunniga hilisemaks.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"11";"3673";"Saarde Kärsu";"Aivo Klein";"Pärnu";"2000-05-31";"03:20";"08:30";"S";"E-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"12";"3674";"Saarde Oissaare";"Margus Ellermaa";"Pärnu";"2000-05-31";"03:28";"08:04";"E";"NE-sse";"N.A.";"5,00";"5,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"13";"3675";"Halliste Päidre";"Margus Ellermaa";"Viljandi";"2000-06-01";"03:23";"08:20";"SE";"N-i";"N.A.";"5,20";"5,20";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"14";"3676";"Paistu Sultsi";"Aivo Klein";"Viljandi";"2000-06-01";"03:10";"08:00";"W";"E-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"15";"3677";"Rannu Sangla";"Margus Ellermaa";"Tartu";"2000-06-02";"03:26";"07:00";"E";"NW-sse";"N.A.";"5,00";"5,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"16";"3678";"Rannu Rannu";"Aivo Klein";"Tartu";"2000-06-02";"03:10";"07:20";"NW";"SE-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"17";"3679";"Põlva Saarjärve";"Margus Ellermaa";"Põlva";"2000-06-04";"03:12";"07:19";"SE";"W-sse";"N.A.";"5,20";"5,20";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"18";"3680";"Põlva Peri";"Aivo Klein";"Põlva";"2000-06-04";"03:02";"07:35";"NE";"S-i";"N.A.";"5,20";"5,20";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"19";"3681";"Haanja Uue-Saaluse";"Margus Ellermaa";"Võru";"2000-06-05";"03:02";"08:33";"S";"NW-sse";"N.A.";"5,70";"5,70";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"20";"3682";"Haanja Mallika";"Aivo Klein";"Võru";"2000-06-05";"03:10";"08:15";"N";"E-sse";"N.A.";"5,50";"5,50";"2000";;;;"n";"Marsruudile on paisutatud väike järv pärast 1. loendust.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"21";"3683";"Mäksa Sarakuste";"Margus Ellermaa";"Tartu";"2000-06-06";"03:14";"07:40";"W";"NE-sse";"N.A.";"5,00";"5,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"22";"3684";"Tartu Tartu";"Aivo Klein";"Tartu";"2000-06-06";"03:02";"07:45";"SE";"NW-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"23";"3685";"Oisu Taikse";"Margus Ellermaa";"Järva";"2000-06-07";"03:09";"07:33";"E";"SW-sse";"N.A.";"5,75";"5,75";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"24";"3686";"Oisu Raukla";"Aivo Klein";"Järva";"2000-06-07";"03:40";"07:15";"SW";"NE-sse";"N.A.";"5,50";"5,50";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"25";"3687";"Jõgeva Viruvere";"Margus Ellermaa";"Jõgeva";"2000-06-08";"03:30";"08:50";"N";"SE-sse";"N.A.";"5,50";"5,80";"2000";;;;"n";"2000 loeti 5.5 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"26";"3688";"Rakke Villakvere";"Aivo Klein";"Lääne-Viru / Jõgeva";"2000-06-08";"03:45";"03:30";"N";"E-sse";"N.A.";"5,00";"5,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"27";"3689";"Tudulinna Roostoja";"Margus Ellermaa";"Ida-Viru";"2000-06-10";"03:02";"07:15";"N";"S-i";"N.A.";"5,00";"5,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"28";"3690";"Tudulinna Muraka";"Aivo Klein";"Ida-Viru";"2000-06-10";"03:10";"08:10";"SE";"N-i";"N.A.";"5,80";"5,80";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"29";"3691";"Ambla Roosna";"Margus Ellermaa";"Järva";"2000-06-11";"03:18";"07:50";"S";"NW-sse";"N.A.";"5,80";"5,80";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"30";"3692";"Tamsalu Põdrangu";"Aivo Klein";"Lääne-Viru";"2000-06-11";"03:01";"07:30";"E";"W-sse";"N.A.";"5,40";"5,40";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"31";"3693";"Anija Änni";"Margus Ellermaa";"Harju";"2000-06-12";"03:20";"08:18";"SW";"SE-sse";"N.A.";"5,20";"5,10";"2000";;;;"n";"2000 loeti 5.2 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"32";"3694";"Aegviidu Nelijärve";"Aivo Klein";"Harju / Lääne-Viru";"2000-06-12";"03:18";"08:10";"N";"S-i";"N.A.";"5,00";"5,30";"2000";;;;"n";"2000 loeti 5.0 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"33";"3695";"Kernu Laitse";"Margus Ellermaa";"Harju";"2000-06-13";"03:16";"07:45";"W";"S-i";"N.A.";"6,30";"6,30";"2000";;;;"n";"2000. aasta transekt oli märgitud ekslikult 5.3 km pikkuseks, tegelt 6.3 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"34";"3696";"Nissi Munalaskme";"Aivo Klein";"Harju";"2000-06-13";"03:06";"08:10";"N";"SW-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"35";"3697";"Väätsa Piiumetsa";"Margus Ellermaa";"Järva";"2000-06-14";"03:15";"07:38";"S";"NE-sse";"N.A.";"6,00";"6,00";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"36";"3698";"Väätsa Roovere";"Aivo Klein";"Järva";"2000-06-14";"03:25";"08:35";"W";"E-sse";"N.A.";"5,50";"5,50";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"37";"3699";"Noarootsi Nõmmküla";"Margus Ellermaa";"Lääne";"2000-06-15";"03:06";"07:23";"NW";"NE-sse";"N.A.";"5,20";"5,20";"2000";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"38";"3700";"Oru Saunja";"Aivo Klein";"Lääne";"2000-06-15";"03:00";"07:40";"N";"S-i";"N.A.";"5,50";"5,30";"2000";;;;"n";"1. korral pikkus 5.5 km.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"39";"3808";"Suure-Jaani Änge";"Aivo Klein";"Viljandi";"2001-05-25";"03:30";"08:10";"N";"S-i";"N.A.";"5,50";"5,50";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"40";"3907";"Suure-Jaani Lahmuse";"Margus Ellermaa";"Viljandi";"2001-05-25";"03:31";"08:24";"N";"S-i";"N.A.";"5,50";"5,50";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"41";"3809";"Helme Patküla";"Margus Ellermaa";"Valga";"2001-05-26";"03:32";"08:17";"NE";"SW-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"42";"3810";"Helme Tõrva";"Aivo Klein";"Valga";"2001-05-26";"03:30";"03:32";"S";"N-i";"N.A.";"5,00";"5,60";"2001";;;;"n";"2001 loendati 5,0 km";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"43";"3811";"Tõlliste Iigaste";"Margus Ellermaa";"Valga";"2001-05-27";"03:34";"08:30";"SW";"E-sse";"N.A.";"5,20";"5,10";"2001";;;;"n";"2001 loendati 100m rohkem";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"44";"3812";"Karula Väheru";"Aivo Klein";"Valga";"2001-05-27";"03:40";"08:25";"N";"S-i";"N.A.";"5,35";"5,35";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"45";"3813";"Kõlleste Krüüdneri";"Margus Ellermaa";"Tartu ja Põlva";"2001-05-28";"03:31";"08:33";"N";"E-sse";"N.A.";"5,10";"5,30";"2001";;;;"n";"Viimased 200m jäi esimesel korral lugemata";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"46";"3814";"Kambja Raaniste";"Aivo Klein";"Tartu ja Põlva";"2001-05-28";"03:15";"08:25";"N";"S-i";"N.A.";"5,40";"5,40";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"47";"3815";"Räpina Naha";"Margus Ellermaa";"Põlva";"2001-05-29";"03:45";"08:30";"NW";"S-i";"N.A.";"5,70";"5,70";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"48";"3816";"Meeksi Sikakurmu";"Aivo Klein";"Põlva";"2001-05-29";"03:50";"08:25";"SE";"NW-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"49";"3817";"Laeva Selli";"Margus Ellermaa";"Tartu";"2001-05-30";"03:30";"08:40";"E";"N-i";"N.A.";"6,10";"6,10";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"50";"3818";"Laeva Valmaotsa";"Aivo Klein";"Tartu";"2001-05-30";"03:45";"08:40";"S";"N-i";"N.A.";"5,40";"5,40";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"51";"3819";"Saare Saare";"Margus Ellermaa";"Jõgeva";"2001-05-31";"03:25";"03:20";"SE";"NW-sse";"N.A.";"5,50";"5,50";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"52";"3820";"Saare Kiisli";"Aivo Klein";"Jõgeva";"2001-05-31";"03:20";"08:40";"SW";"E-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"53";"3821";"Koeru Oostriku";"Margus Ellermaa";"Järva";"2001-06-01";"03:35";"08:53";"SW";"NE-sse";"N.A.";"5,00";"5,00";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"54";"3822";"Koeru Norra";"Aivo Klein";"Järva";"2001-06-01";"03:30";"08:40";"S";"NW-sse";"N.A.";"5,60";"5,60";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"55";"3823";"Illuka Poruni";"Margus Ellermaa";"Ida-Viru";"2001-06-02";"03:30";"09:05";"S";"NW-sse";"N.A.";"5,70";"5,00";"2001";;;;"n";"2001 transekt 700m pikem ilmselt alguses lehtmetsas";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"56";"3824";"Illuka Puhatu";"Aivo Klein";"Ida-Viru";"2001-06-02";"03:40";"08:50";"N";"W-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";"peaks olema kummikutega läbitav";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"57";"3825";"Haljala Männiku";"Margus Ellermaa";"Lääne-Viru";"2001-06-03";"03:32";"08:40";"W";"NW-sse";"N.A.";"5,60";"5,60";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"58";"3826";"Haljala Essu";"Aivo Klein";"Lääne-Viru";"2001-06-03";"03:30";"08:05";"SW";"E-sse";"N.A.";"5,60";"5,60";"2001";;;;"n";"1. kilomeetril lai jõgi, mille ületamine võib nõuda pika ringi tegemist silla kaudu";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"59";"3829";"Loksa Kolga-Aabla";"Margus Ellermaa";"Harju";"2001-06-05";"03:42";"09:09";"S";"NW-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"60";"3830";"Loksa Pedaspea";"Aivo Klein";"Harju";"2001-06-05";"03:30";"08:30";"N";"SE-sse";"N.A.";"5,60";"5,60";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"61";"3831";"Rae Assaku";"Margus Ellermaa";"Harju";"2001-06-06";"03:51";"08:20";"SW";"N-i";"N.A.";"5,05";"5,05";"2001";;;;"n";"Transekti lõpuosasse ehitatud eramurajoon pärast 2001. aastat";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"62";"3832";"Kõrgessaare Hüti";"Margus Ellermaa";"Hiiu";"2001-06-07";"03:42";"08:42";"W";"SW-sse";"N.A.";"6,20";"6,20";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"63";"3833";"Rae Patika";"Aivo Klein";"Harju";"2001-06-06";"03:30";"08:45";"E";"W-sse";"N.A.";"5,30";"5,30";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"64";"3834";"Kõrgessaare Leigri";"Aivo Klein";"Hiiu";"2001-06-07";"03:30";"08:30";"S";"NE-sse";"N.A.";"5,40";"5,60";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest. 2001 200m jäi loendamata";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"65";"3835";"Ridala Haeska";"Margus Ellermaa";"Lääne";"2001-06-08";"03:30";"07:58";"E";"S-i";"N.A.";"5,00";"5,00";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"66";"3836";"Ridala Parila";"Aivo Klein";"Lääne";"2001-06-08";"03:20";"08:00";"SE";"NW-sse";"N.A.";"5,00";"5,00";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"67";"3837";"Hanila Käru";"Margus Ellermaa";"Pärnu";"2001-06-09";"03:25";"07:48";"E";"N-i";"N.A.";"5,60";"5,60";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks. See transekt loeti ka aastal 2000 kuid selle metaandmed on tabelist puudu";;"I";
+"68";"3838";"Hanila Vatla";"Aivo Klein";"Pärnu";"2001-06-09";"03:10";"07:55";"W";"S-i";"N.A.";"5,00";"6,00";"2001";;;;"n";"esimesel korral loeti 5 km - 1 km jäi lugemata";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks. See transekt loeti ka aastal 2000 kuid selle metaandmed on tabelist puudu";;"I";
+"69";"3839";"Lihula Penijõe";"Margus Ellermaa";"Pärnu";"2001-06-10";"03:32";"08:01";"S";"E-sse";"N.A.";"5,00";"5,00";"2001";;;;"n";;"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"70";"3840";"Lihula Kloostri";"Aivo Klein";"Pärnu";"2001-06-10";"03:25";"08:00";"S";"N-i";"N.A.";"5,00";"5,00";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"71";"3841";"Tori Kõrsa";"Margus Ellermaa";"Pärnu";"2001-06-11";"03:38";"07:27";"E";"SE-sse";"N.A.";"4,00";"5,20";"2001";;;;"n";"Transekti loendati 1. korral soo peal lyhemalt sest räätsasid polnud kaasas. Loenduse pikkus hinnanguline.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"72";"3842";"Tori Taali";"Aivo Klein";"Pärnu";"2001-06-11";"03:35";"08:40";"SW";"NE-sse";"N.A.";"6,00";"6,00";"2001";;;;"n";"Marsruudi algus ja lõpp väga kaugel teineteisest.";"Kellaajad on talveajad sest kelli ei tollal keeratud. Analyysides tasuks teiseldada UTC-ajaks.";;"I";
+"73";"3661";"Kärla Käesla";"Margus Ellermaa";"Saare";"2021-05-27";"04:35";"09:35";"NE";"W-sse";"N.A.";"6,00";"6,00";"2021";"2";"21";"yes";"y";"Suured üleujutused  niitude kraavistikes, vesi paljudes kohtades vööni.";;;"I";
+"74";"3662";"Lümanda Lümanda";"Johannes Silvonen";"Saare";"2021-05-27";"04:30";"09:15";"SW";"NE-sse";"N.A.";"5,40";"5,40";"2021";"2";"21";"no";"y";;;;"I";
+"75";"3663";"Kaarma Tõrise";"Margus Ellermaa";"Saare";"2021-05-25";"05:10";"09:15";"E";"S-i";"N.A.";"6,10";"6,10";"2021";"-1";"21";"yes";"y";;;;"I";
+"76";"3664";"Leisi Luulupe";"Johannes Silvonen";"Saare";"2021-05-25";"04:40";"09:50";"N";"S-i";"N.A.";"5,60";"5,60";"2021";"-1";"21";"no";"y";;;;"I";
+"77";"3667";"Halinga Sõõrike";"Margus Ellermaa";"Pärnu";"2021-05-29";"04:16";"09:45";"SW";"NE-sse";"N.A.";"6,70";"6,70";"2021";"1";"21";"yes";"y";;;;"I";
+"78";"3668";"Halinga Maima";"Johannes Silvonen";"Pärnu";"2021-05-29";"04:15";"09:20";"W";"SE-sse";"N.A.";"5,50";"5,50";"2021";"1";"21";"no";"y";;;;"I";
+"79";"3669";"Raikküla Lipametsa";"Margus Ellermaa";"Rapla";"2021-05-28";"04:30";"08:59";"WNW";"NE-sse";"N.A.";"5,60";"5,60";"2021";"-1";"21";"yes";"y";;;;"I";
+"80";"3670";"Raikküla Raikküla";"Johannes Silvonen";"Rapla";"2021-05-28";"04:45";"09:40";"NE";"S-i";"N.A.";"6,00";"6,00";"2021";"-1";"21";"no";"y";;;;"I";
+"81";"3671";"Häädemeeste Tolkuse";"Johannes Silvonen";"Pärnu";"2021-05-30";"04:10";"09:00";"E";"W-sse";"N.A.";"5,05";"5,05";"2021";"0";"21";"no";"y";;;;"I";
+"82";"3672";"Häädemeeste Aruküla";"Margus Ellermaa";"Pärnu";"2021-05-30";"04:20";"09:10";"W";"SE-sse";"N.A.";"5,30";"5,30";"2021";"0";"21";"yes";"y";;;;"I";
+"83";"3673";"Saarde Kärsu";"Johannes Silvonen";"Pärnu";"2021-05-31";"04:20";"09:05";"S";"E-sse";"N.A.";"6,00";"6,00";"2021";"0";"21";"no";"y";;;;"I";
+"84";"3674";"Saarde Oissaare";"Margus Ellermaa";"Pärnu";"2021-05-31";"04:10";"08:30";"E";"NE-sse";"N.A.";"5,00";"5,00";"2021";"0";"21";"yes";"y";;;;"I";
+"85";"3675";"Halliste Päidre";"Margus Ellermaa";"Viljandi";"2021-06-01";"05:00";"09:20";"SE";"N-i";"N.A.";"5,20";"5,20";"2021";"0";"21";"yes";"y";;;;"I";
+"86";"3676";"Paistu Sultsi";"Johannes Silvonen";"Viljandi";"2021-06-01";"04:30";"09:30";"W";"E-sse";"N.A.";"6,00";"6,00";"2021";"0";"21";"no";"y";;;;"I";
+"87";"3677";"Rannu Sangla";"Margus Ellermaa";"Tartu";"2021-06-02";"04:20";"07:45";"E";"NW-sse";"N.A.";"5,00";"5,00";"2021";"0";"21";"yes";"y";;;;"I";
+"88";"3678";"Rannu Rannu";"Johannes Silvonen";"Tartu";"2021-06-02";"04:10";"08:42";"NW";"SE-sse";"N.A.";"6,00";"6,00";"2021";"0";"21";"no";"y";;;;"I";
+"89";"3679";"Põlva Saarjärve";"Margus Ellermaa";"Põlva";"2021-06-04";"04:08";"08:26";"SE";"W-sse";"N.A.";"5,20";"5,20";"2021";"0";"21";"yes";"y";;;;"I";
+"90";"3680";"Põlva Peri";"Johannes Silvonen";"Põlva";"2021-06-04";"04:00";"07:40";"NE";"S-i";"N.A.";"5,20";"5,20";"2021";"0";"21";"no";"y";;;;"I";
+"91";"3681";"Haanja Uue-Saaluse";"Margus Ellermaa";"Võru";"2021-06-03";"04:00";"09:13";"S";"NW-sse";"N.A.";"5,70";"5,70";"2021";"-2";"21";"yes";"y";;;;"I";
+"92";"3682";"Haanja Mallika";"Johannes Silvonen";"Võru";"2021-06-03";"04:05";"08:52";"N";"E-sse";"N.A.";"5,50";"5,50";"2021";"-2";"21";"no";"y";;;;"I";
+"93";"3683";"Mäksa Sarakuste";"Margus Ellermaa";"Tartu";"2021-06-05";"03:58";"07:52";"W";"NE-sse";"N.A.";"5,00";"5,00";"2021";"-1";"21";"yes";"y";;;;"I";
+"94";"3684";"Tartu Tartu";"Johannes Silvonen";"Tartu";"2021-06-05";"04:00";"08:20";"SE";"NW-sse";"N.A.";"6,00";"6,00";"2021";"-1";"21";"no";"y";;;;"I";
+"95";"3685";"Oisu Taikse";"Margus Ellermaa";"Järva";"2021-06-06";"04:20";"08:15";"E";"SW-sse";"N.A.";"5,75";"5,75";"2021";"-1";"21";"yes";"y";"see transekt on esinenud ka numbri 5800 all";;;"I";
+"96";"3686";"Oisu Raukla";"Johannes Silvonen";"Järva";"2021-06-06";"04:25";"08:02";"SW";"NE-sse";"N.A.";"5,50";"5,50";"2021";"-1";"21";"no";"y";;;;"I";
+"97";"3687";"Jõgeva Viruvere";"Margus Ellermaa";"Jõgeva";"2021-06-07";"04:00";"09:15";"N";"SE-sse";"N.A.";"5,80";"5,80";"2021";"-1";"21";"yes";"y";;;;"I";
+"98";"3688";"Rakke Villakvere";"Johannes Silvonen";"Lääne-Viru / Jõgeva";"2021-06-07";"04:10";"08:20";"N";"E-sse";"N.A.";"5,00";"5,00";"2021";"-1";"21";"no";"y";;;;"I";
+"99";"3689";"Tudulinna Roostoja";"Margus Ellermaa";"Ida-Viru";"2021-06-08";"04:18";"08:22";"N";"S-i";"N.A.";"5,00";"5,00";"2021";"-2";"21";"yes";"y";"transekti alguses suhteliselt tülikas kopra uputus";;;"I";
+"100";"3690";"Tudulinna Muraka";"Johannes Silvonen";"Ida-Viru";"2021-06-08";"04:05";"08:05";"SE";"N-i";"N.A.";"5,80";"5,80";"2021";"-2";"21";"no";"y";"Absurdne sääskede ja kihulaste ohtrus";;;"I";
+"101";"3691";"Ambla Roosna";"Margus Ellermaa";"Järva";"2021-06-09";"04:38";"09:03";"S";"NW-sse";"N.A.";"5,80";"5,80";"2021";"-2";"21";"yes";"y";;;;"I";
+"102";"3692";"Tamsalu Põdrangu";"Johannes Silvonen";"Lääne-Viru";"2021-06-09";"04:12";"08:25";"E";"W-sse";"N.A.";"5,40";"5,40";"2021";"-2";"21";"no";"y";;;;"I";
+"103";"3693";"Anija Änni";"Margus Ellermaa";"Harju";"2021-06-12";"04:02";"08:34";"SW";"SE-sse";"N.A.";"5,10";"5,10";"2021";"0";"21";"yes";"y";;;;"I";
+"104";"3694";"Aegviidu Nelijärve";"Indrek Tammekänd";"Harju / Lääne-Viru";"2021-06-12";"04:00";"08:20";"N";"S-i";"N.A.";"5,30";"5,30";"2021";"0";"21";"no";"y";;;;"I";
+"105";"3695";"Kernu Laitse";"Margus Ellermaa";"Harju";"2021-06-11";"04:08";"08:27";"W";"S-i";"N.A.";"6,30";"6,30";"2021";"-2";"21";"yes";"y";;;;"I";
+"106";"3696";"Nissi Munalaskme";"Indrek Tammekänd";"Harju";"2021-06-11";"04:00";"08:25";"N";"SW-sse";"N.A.";"6,00";"6,00";"2021";"-2";"21";"no";"y";;;;"I";
+"107";"3697";"Väätsa Piiumetsa";"Margus Ellermaa";"Järva";"2021-06-13";"04:17";"08:44";"S";"NE-sse";"N.A.";"6,00";"6,00";"2021";"-1";"21";"yes";"y";;;;"I";
+"108";"3698";"Väätsa Roovere";"Indrek Tammekänd";"Järva";"2021-06-13";"04:30";"08:55";"W";"E-sse";"N.A.";"5,50";"5,50";"2021";"-1";"21";"no";"y";;;;"I";
+"109";"3699";"Noarootsi Nõmmküla";"Margus Ellermaa";"Lääne";"2021-06-14";"04:18";"08:26";"NW";"NE-sse";"N.A.";"5,20";"5,20";"2021";"-1";"21";"yes";"y";"Turbatootmisala oli laienenud 2000. aastaga võrreldes transekti peale. mõned kraavid eeldasid ületamisel väikseid ringe, aga transekti polnud vaja nihutada.";;;"I";
+"110";"3700";"Oru Saunja";"Renno Nellis";"Lääne";"2021-06-14";"04:25";"08:55";"N";"S-i";"N.A.";"5,30";"5,30";"2021";"-1";"21";"no";"y";"Peakraavi ületamine raske, minna üle ida poolt. Lõpus viimased 200m transekt läbib suurt tarastatud ala - peab lugema ette ja taha mõlemalt poolt tara.";;;"I";
+"111";"3837";"Hanila Käru";"Margus Ellermaa";"Pärnu";"2021-06-10";"04:05";"08:45";"E";"N-i";"N.A.";"5,60";"5,60";"2021";"1";"20";"yes";"y";;;;"I";
+"112";"3838";"Hanila Vatla";"Indrek Tammekänd";"Pärnu";"2021-06-10";"04:05";"08:05";"W";"S-i";"N.A.";"6,00";"6,00";"2021";"1";"20";"no";"y";;;;"I";
+"113";"3808";"Suure-Jaani Änge";"Art-Villem Adojaan";"Viljandi";"2022-05-25";"04:34";"08:15";"N";"S-i";"N.A.";"5,50";"5,50";"2022";"0";"21";"no";"y";;;;"I";
+"114";"3907";"Suure-Jaani Lahmuse";"Margus Ellermaa";"Viljandi";"2022-05-25";"04:30";"08:21";"N";"S-i";"N.A.";"5,50";"5,50";"2022";"0";"21";"yes";"y";;;;"I";
+"115";"3809";"Helme Patküla";"Margus Ellermaa";"Valga";"2022-05-26";"06:00";"10:00";"NE";"SW-sse";"N.A.";"5,80";"6,00";"2022";"0";"21";"yes";"y";"vihma tõttu algusaega lükati 2 tundi edasi. Linnud aktiivsed siiski loenduse lõpuni. loeti 5,8 - loenduse lõik alguspunktist 0,4 kuni 0,6 km (pärast paisjärve) jäi lugemata sest koer hoovis. Paisjärv paisutatud transekti üsna algusesse - üle saab ülajooksult või tammi mööda mis eeldab aga veidi pikemat ringi.";;;"I";
+"116";"3810";"Helme Tõrva";"Art-Villem Adojaan";"Valga";"2022-05-26";"05:38";"11:00";"S";"N-i";"N.A.";"5,60";"5,60";"2022";"0";"21";"no";"y";"vihma tõttu algusaega lükati 2 tundi edasi. Linnud aktiivsed siiski loenduse lõpuni.";;;"I";
+"117";"3811";"Tõlliste Iigaste";"Margus Ellermaa";"Valga";"2022-05-27";"04:42";"09:12";"SW";"E-sse";"N.A.";"4,90";"5,10";"2022";"0";"21";"yes";"y";;;;"I";
+"118";"3812";"Karula Väheru";"Art-Villem Adojaan";"Valga";"2022-05-27";"04:45";"09:00";"N";"S-i";"N.A.";"5,35";"5,35";"2022";"0";"21";"no";"y";;;;"I";
+"119";"3813";"Kõlleste Krüüdneri";"Margus Ellermaa";"Tartu ja Põlva";"2022-05-28";"04:37";"09:01";"N";"E-sse";"N.A.";"5,30";"5,30";"2022";"0";"21";"yes";"y";"tarastatud istandusele tehti ring aga linnud loeti ette ja taha, nii et auku ei jäänud";;;"I";
+"120";"3814";"Kambja Raaniste";"Art-Villem Adojaan";"Tartu ja Põlva";"2022-05-28";"04:30";"08:30";"N";"S-i";"N.A.";"5,40";"5,40";"2022";"0";"21";"no";"y";;;;"I";
+"121";"3815";"Räpina Naha";"Margus Ellermaa";"Põlva";"2022-05-29";"04:32";"08:52";"NW";"S-i";"N.A.";"5,70";"5,70";"2022";"0";"21";"yes";"y";;;;"I";
+"122";"3816";"Meeksi Sikakurmu";"Art-Villem Adojaan";"Põlva";"2022-05-29";"04:35";"09:20";"SE";"NW-sse";"N.A.";"6,00";"6,00";"2022";"0";"21";"no";"y";;;;"I";
+"123";"3817";"Laeva Selli";"Margus Ellermaa";"Tartu";"2022-05-30";"04:32";"08:47";"E";"N-i";"N.A.";"6,10";"6,10";"2022";"0";"21";"yes";"y";;;;"I";
+"124";"3818";"Laeva Valmaotsa";"Art-Villem Adojaan";"Tartu";"2022-05-30";"04:26";"09:00";"S";"N-i";"N.A.";"5,40";"5,40";"2022";"0";"21";"no";"y";;;;"I";
+"125";"3819";"Saare Saare";"Margus Ellermaa";"Jõgeva";"2022-06-02";"04:45";"08:40";"SE";"NW-sse";"N.A.";"5,50";"5,50";"2022";"2";"21";"yes";"y";;;;"I";
+"126";"3820";"Saare Kiisli";"Art-Villem Adojaan";"Jõgeva";"2022-06-02";"04:40";"08:50";"SW";"E-sse";"N.A.";"6,00";"6,00";"2022";"2";"21";"no";"y";;;;"I";
+"127";"3821";"Koeru Oostriku";"Margus Ellermaa";"Järva";"2022-06-04";"04:20";"09:30";"SW";"NE-sse";"N.A.";"5,00";"5,00";"2022";"3";"21";"yes";"y";;;;"I";
+"128";"3822";"Koeru Norra";"Art-Villem Adojaan";"Järva";"2022-06-04";"04:15";"08:00";"S";"NW-sse";"N.A.";"5,60";"5,60";"2022";"3";"21";"no";"y";;;;"I";
+"129";"3823";"Illuka Poruni";"Margus Ellermaa";"Ida-Viru";"2022-06-01";"04:30";"08:20";"S";"NW-sse";"N.A.";"5,00";"5,00";"2022";"-1";"21";"yes";"y";;;;"I";
+"130";"3824";"Illuka Puhatu";"Art-Villem Adojaan";"Ida-Viru";"2022-06-01";"04:35";"08:36";"N";"W-sse";"N.A.";"6,00";"6,00";"2022";"-1";"21";"no";"y";"õõtsikust saab yle ka kalamehe kummikuga  veidi jaurates";;;"I";
+"131";"3825";"Haljala Männiku";"Margus Ellermaa";"Lääne-Viru";"2022-06-05";"04:15";"08:54";"W";"NW-sse";"N.A.";"5,60";"5,60";"2022";"2";"21";"yes";"y";;;;"I";
+"132";"3826";"Haljala Essu";"Art-Villem Adojaan";"Lääne-Viru";"2022-06-05";"04:00";"08:00";"SW";"E-sse";"N.A.";"5,60";"5,60";"2022";"2";"21";"no";"y";"yle jõe ei saa - tuleb 1km ring teha maantee kaudu. Jõuab ilusti, sest põllutransekt.";;;"I";
+"133";"3829";"Loksa Kolga-Aabla";"Margus Ellermaa";"Harju";"2022-06-06";"04:15";"09:11";"S";"NW-sse";"N.A.";"6,00";"6,00";"2022";"1";"21";"yes";"y";;;;"I";
+"134";"3830";"Loksa Pedaspea";"Art-Villem Adojaan";"Harju";"2022-06-06";"04:00";"08:00";"N";"SE-sse";"N.A.";"5,60";"5,60";"2022";"1";"21";"no";"y";;;;"I";
+"135";"3831";"Rae Assaku";"Margus Ellermaa";"Harju";"2022-06-07";"04:15";"08:25";"SW";"N-i";"N.A.";"5,05";"5,05";"2022";"1";"21";"yes";"y";"lõpus uus elamurajoon - läbitud sikk-sakki tänavaid mööda, transekti pikkus jäi enam vähem samaks.";;;"I";
+"136";"3833";"Rae Patika";"Art-Villem Adojaan";"Harju";"2022-06-07";"04:00";"08:00";"E";"W-sse";"N.A.";"5,30";"5,30";"2022";"1";"21";"no";"y";;;;"I";
+"137";"3832";"Kõrgessaare Hüti";"Margus Ellermaa";"Hiiu";"2022-06-09";"04:10";"08:56";"W";"SW-sse";"N.A.";"6,20";"6,20";"2022";"2";"21";"yes";"y";;;;"I";
+"138";"3834";"Kõrgessaare Leigri";"Art-Villem Adojaan";"Hiiu";"2022-06-09";"04:00";"08:05";"S";"NE-sse";"N.A.";"5,60";"5,60";"2022";"2";"21";"no";"y";;;;"I";
+"139";"3835";"Ridala Haeska";"Margus Ellermaa";"Lääne";"2022-06-08";"04:17";"08:56";"E";"S-i";"N.A.";"5,00";"5,00";"2022";"0";"21";"yes";"y";;;;"I";
+"140";"3836";"Ridala Parila";"Art-Villem Adojaan";"Lääne";"2022-06-08";"04:00";"08:00";"SE";"NW-sse";"N.A.";"5,00";"5,00";"2022";"0";"21";"no";"y";;;;"I";
+"143";"3839";"Lihula Penijõe";"Margus Ellermaa";"Pärnu";"2022-06-10";"04:10";"08:45";"S";"E-sse";"N.A.";"5,00";"5,00";"2022";"0";"21";"yes";"y";;;;"I";
+"144";"3840";"Lihula Kloostri";"Art-Villem Adojaan";"Pärnu";"2022-06-10";"04:00";"08:30";"S";"N-i";"N.A.";"5,00";"5,00";"2022";"0";"21";"no";"y";;;;"I";
+"145";"3841";"Tori Kõrsa";"Margus Ellermaa";"Pärnu";"2022-06-11";"04:20";"08:10";"E";"SE-sse";"N.A.";"5,20";"5,20";"2022";"0";"21";"yes";"y";;;;"I";
+"146";"3842";"Tori Taali";"Art-Villem Adojaan";"Pärnu";"2022-06-11";"04:00";"08:10";"SW";"NE-sse";"N.A.";"6,00";"6,00";"2022";"0";"21";"no";"y";;;;"I";
+"234";"1";"Allaste";"Margus Ellermaa";"Viljandi";"2008-05-28";"04:10";"08:00";;;;"4,00";"4,00";"2008";;;;"unknown";;;"ME1040";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"235";"2";"Lõopõllu";"Mati Martinson";"Saare";"2005-05-27";"06:30";"10:30";;"NW-NE";;"4,00";"4,00";"2005";;;;"unknown";"nurgad";;"EK6530";"I";
+"236";"3";"Rannapungerja";"Renno Nellis";"Ida-Viru";"2007-05-29";"04:15";"07:10";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"NF1035";"I";
+"237";"4";"Vahakulmu";"Sven Aun ja Mati Salumäe";"Lääne-Viru";"2007-06-08";"03:30";"07:30";;"NW-NE?";;"4,00";"4,00";"2007";;;;"unknown";;;"MF4065/MF4565";"I";
+"238";"5";"Nurtu-Nõlva";"lugemata";"Rapla";;;;;;;;"4,00";;;;;"unknown";;;"LF6015";"I";
+"239";"6";"Puujala";"Renno Nellis";"Ida-Viru";"2004-06-09";;;;;;"4,00";"4,00";"2004";;;;"unknown";;;"NF3060";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"240";"7";"Saru";"Tarmo Evestus";"Võru";"2005-05-23";"05:30";"07:10";;;;"4,00";"4,00";"2005";;;;"unknown";;;"MD7085";"I";
+"241";"8";"Piiri";"Riho Kinks";"Tartu";"2007-06-03";"04:45";"07:20";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"ME6580";"I";
+"242";"9";"Sonda";"Rein Nellis";"Ida-Viru";"2006-06-13";"04:50";"07:45";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"MF8575";"I";
+"243";"10";"Vooru";"Tarmo Evestus";"Viljandi";"2007-06-08";"05:10";"08:20";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"ME3540";"I";
+"244";"11";"Kääni";"Tarmo Evestus";"Tartu/Valga";"2004-06-02";"05:25";"07:45";;;;"4,00";"4,00";"2004";;;;"unknown";;;"ME7045";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"245";"12";"Kädva";"Renno Nellis";"Rapla";"2005-05-27";"05:00";"07:50";;;;"4,00";"4,00";"2005";;;;"unknown";;;"LF9030";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"246";"13";"Võmmorski";"Renno Nellis";"Võru";"2008-06-05";"04:50";"07:20";;"NE-NW";;"4,00";"4,00";"2008";;;;"unknown";;;"NE3005";"I";
+"247";"14";"Kärde";"Sven Aun ja Mati Salumäe";"Jõgeva";"2006-06-03";"03:45";"07:00";;"NE-NW?";;"4,00";"4,00";"2006";;;;"unknown";;;"MF6020";"I";
+"248";"15";"Kalana";"Rein Nellis";"Jõgeva";"2005-05-26";"05:20";"07:45";;"NW-NE";;"4,00";"4,00";"2005";;;;"unknown";;;"MF4510";"I";
+"249";"16";"Ardu";"Renno Nellis";"Harju";"2005-05-28";"05:20";"08:50";;;;"4,00";"4,00";"2005";;;;"unknown";;;"MF0045";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"250";"17";"Pugritsa";"Tarmo Evestus ja Priit Voolaid";"Valga";"2008-06-12";"05:30";"08:20";;"NE-NW?";;"4,00";"4,00";"2008";;;;"unknown";;;"ME5000";"I";
+"251";"18";"Jõhvi";"Renno Nellis";"Ida-Viru";"2008-06-07";"08:40";"09:15";;"NE-NW";;"0,80";"4,00";"2008";;;;"unknown";"andmetabelis oli kuupäevaks 7.8.2008 - ilmselt näpukas";;"NF2080";"I";"ei või pidada loetuks"
+"252";"19";"Kehra";"Eerik Leibak";"Harju";"2005-05-28";"04:30";"08:45";;"NW-NE";;"4,00";"4,00";"2005";;;;"unknown";"14.06.2006 7.15-8.00 settetiigid";;"MF0575";"I";
+"253";"20";"Sangla";"Riho Kinks";"Tartu";"2006-06-07";"04:00";"06:00";;"NE-NW";;"4,00";"4,00";"2006";;;;"unknown";;;"ME5070";"I";
+"254";"21";"Feodori";"Renno Nellis";"Ida-Viru";"2004-06-10";;;;;;"4,00";"4,00";"2004";;;;"unknown";;;"NF3545";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"255";"22";"Saikla";"Rein Nellis";"Saare";"2008-06-13";"05:45";"08:15";;"NE-NW";;"4,00";"4,00";"2008";;;;"unknown";"nurgad";;"FK1585";"I";
+"256";"23";"Haeska";"Hannes Pehlak";"Lääne";"2005-06-09";"05:50";"09:20";;"NW-NE";;"4,00";"4,00";"2005";;;;"unknown";;;"FL5015";"I";
+"257";"24";"Sõru";"Ülo Väli";"Hiiumaa";"2004-05-25";"05:05";"08:25";;"NW-NE";;"4,00";"4,00";"2004";;;;"unknown";;;"EL8505";"I";
+"258";"25";"Kaiu";"Renno Nellis";"Rapla";"2007-06-05";"05:00";"07:20";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"LF8540";"I";
+"259";"26";"Leipste";"Indrek Tammekänd";"Pärnu";"2004-06-06";"05:00";"09:00";;"NW-NE?";;"4,00";"4,00";"2004";;;;"unknown";;;"LE8040";"I";
+"260";"27";"Adraku";"Eerik Leibak";"Ida-Viru";"2008-06-13";"04:30";"08:30";;"NE-NW";;"4,00";"4,00";"2008";;;;"unknown";;;"MF8530";"I";
+"261";"28";"Karjaküla";"Renno Nellis";"Järva";"2007-06-07";"05:00";"08:25";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"LF9510";"I";
+"262";"29";"Mahlamäe";"Renno Nellis";"Rapla";"2006-06-05";"05:20";"08:30";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"LF7040";"I";
+"263";"30";"Oisu";"Renno Nellis";"Järva";"2006-05-31";"05:10";"08:10";;"NE-NW";;"4,00";"4,00";"2006";;;;"unknown";;;"MF1515";"I";
+"264";"31";"Hintsiko";"Rein Nellis";"Võru";"2004-06-05";"04:00";"07:30";;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"MD8080";"I";
+"265";"32";"Ruuksu";"Rein Nellis";"Võru";"2004-06-06";"05:00";"07:40";;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"MD9095";"I";
+"266";"33";"Haage";"Asko Lõhmus";"Tartu";"2004-05-28";"06:05";"09:20";;"NW-NE";;"4,00";"4,00";"2004";;;;"unknown";;;"ME7565";"I";
+"267";"34";"Võivaku";"Riho Männik";"Viljandi";;"05:10";"09:05";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"ME1580";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"268";"35";"Nilbõ";"Mati Martinson";"Võru";"2007-06-03";"04:40";"08:45";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"ME9000";"I";
+"269";"36";"Vägeva";"Renno Nellis";"Jõgeva";"2004-05-28";;;;;;"4,00";"4,00";"2004";;;;"unknown";;;"MF5525";"I";
+"270";"37";"Mullavere";"Riho Kinks";"Jõgeva";"2008-06-06";"04:05";"06:25";;;;"4,00";"4,00";"2008";;;;"unknown";;;"ME7095";"I";
+"271";"38";"Himmiste";"Renno Nellis";"Põlva";"2008-06-04";"04:20";"07:40";;"NW-NE";;"4,00";"4,00";"2008";;;;"unknown";;;"NE1025";"I";
+"272";"39";"Pikkjärve";"Tarmo Evestus";"Põlva";"2006-05-31";"05:20";"07:50";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"ME7535";"I";
+"273";"40";"Pikareinu";"Tarmo Evestus";"Põlva";"2006-06-04";"04:55";"07:30";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"ME8040";"I";
+"274";"41";"Rahinge";"Asko Lõhmus";"Tartu";"2004-06-04";"05:40";"08:30";;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"ME7570";"I";
+"275";"42";"Järni";"Rein Nellis";"Lääne-Viru";"2006-06-14";"04:30";"07:00";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"MF5570";"I";
+"276";"43";"Suru";"Renno Nellis";"Harju";"2004-05-29";;;;;;;"4,00";"2004";;;;"unknown";"loeti nihutatud transekti";;"MF3080";"I";
+"277";"44";"Kesknõmme";"Renno Nellis";"Saare";"2005-06-09";"05:00";"08:15";;;;"3,40";"4,00";"2005";;;;"unknown";"Kirdenurgas jääb ca 600 m transektist mere alla";;"EK6075";"I";
+"278";"45";"Viitka";"Mati Martinson";"Võru";"2007-06-02";"05:00";"09:00";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"ND2090";"I";
+"279";"46";"Tornimäe";"Hannes Pehlak";"Saare";"2008-06-06";"06:40";"10:20";;;;"4,00";"4,00";"2008";;;;"unknown";;;"FK2085";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"280";"47";"Murru";"Renno Nellis";"Jõgeva";"2006-05-26";"04:50";"07:50";;;;"4,00";"4,00";"2006";;;;"unknown";;;"MF9015";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"281";"48";"Pärnassaare";"Indrek Tammekänd";"Ida-Viru";"2006-05-31";;;;;;"4,00";"4,00";"2006";;;;"unknown";;;"NF1055";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"282";"49";"Kõima";"Indrek Tammekänd";"Pärnu";"2004-05-31";"05:00";"09:00";;"NW-NE?";;"4,00";"4,00";"2004";;;;"unknown";;;"LE3570";"I";
+"283";"50";"Varessaare";"Indrek Tammekänd";"Ida-Viru";"2006-05-30";;;;;;"4,00";"4,00";"2006";;;;"unknown";;;"NF0560";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"284";"51";"Laagri";"Aarne ja Eet Tuule";"Harju";"2005-05-30";"04:15";"08:40";;;;"4,00";"4,00";"2005";;;;"unknown";"nurgad";;"LF6575";"I";
+"285";"52";"Valuste";"Hannes Pehlak";"Lääne";"2006-06-13";"05:00";"08:40";;;;"4,00";"4,00";"2006";;;;"unknown";;;"???";"I";
+"286";"53";"Isabella";"Ülo Väli";"Hiiumaa";"2004-05-27";"04:30";"08:20";;"NW-NE";;"4,00";"4,00";"2004";;;;"unknown";;;"EL8535/EL8530";"I";
+"287";"54";"Lohu";"Renno Nellis";"Rapla";"2005-06-07";"05:20";"09:35";;;;"4,00";"4,00";"2005";;;;"unknown";;;"LF7050";"I";
+"288";"55";"Aruküla";"Renno Nellis";"Lääne-Viru";"2006-06-03";"05:20";"06:20";;"NE-NW";;"2,26";"4,00";"2006";;;;"unknown";;;"MF7060";"I";
+"289";"56";"Tutermaa";"Aarne ja Eet Tuule";"Harju";"2004-05-26";"04:00";"09:15";;;;"4,00";"4,00";"2004";;;;"unknown";"nurgad";;"LF5575";"I";
+"290";"57";"Pillardi";"Renno Nellis";"Võru";"2007-06-03";"05:00";"08:20";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";"nihutatud!!!";"tundub nihutamata – vaatlused kantud ette antud kaardile";"MD9585";"I";
+"291";"58";"Kiratsi";"Rein Nellis";"Saare";"2005-06-08";"05:15";"08:15";;"NE-NW";;"4,00";"4,00";"2005";;;;"unknown";"nurgad";;"EK9065";"I";
+"292";"59";"Päinurme";"Renno Nellis";"Järva";"2007-06-08";"05:00";"07:30";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"MF3515";"I";
+"293";"60";"Sultsi";"Renno Nellis";"Viljandi";"2008-06-03";"05:00";"07:40";;"NE-NW";;"4,00";"4,00";"2008";;;;"unknown";;;"ME1550/ME1555";"I";
+"294";"61";"Utsali";"Asko Lõhmus";"Jõgeva";;;;;"NW-NE";;"3,55";"4,00";"2004";;;;"unknown";"nihutada";;"ME5085";"I";"Selgitada, kas 2004 loendati nihutamata transekt. Kui jah, nihutatud transektile tuleb anda uus ID ja käsitleda uue transektina."
+"295";"62";"Laimjala";"Hannes Pehlak";"Saare";"2006-05-31";"05:00";"08:50";;;;"4,00";"4,00";"2006";;;;"unknown";"nurgad";;"FK1575";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"296";"63";"Vihtra";"Margus Ellermaa";"Pärnu";"2008-05-25";"04:20";"07:25";;;;"4,00";"4,00";"2008";;;;"unknown";;;"LE8090/LE8095";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"297";"64";"Anna";"Eerik Leibak";"Järva";"2005-06-14";"04:00";"08:15";;"NE-NW";;"4,00";"4,00";"2005";;;;"unknown";;;"MF2040";"I";
+"298";"65";"Ratva";"Eerik Leibak";"Ida-Viru";"2006-05-30";"06:00";"10:45";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"NF1060";"I";
+"299";"66";"Vao";"Sven Aun ja Mati Salumäe";"Lääne-Viru";"2006-06-10";"03:30";"07:15";;;;"4,00";"4,00";"2006";;;;"unknown";;;"MF5050";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"300";"67";"Rääma";"Indrek Tammekänd";"Pärnu";"2004-06-05";"05:00";"08:00";;"NW-NE?";;"4,00";"4,00";"2004";;;;"unknown";;;"LE5575";"I";
+"301";"68";"Augjärv";"Rein Nellis";"Harju";"2004-05-29";;;;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"MF3075";"I";
+"302";"69";"Vesneri";"Rein Nellis";"Tartu";"2005-05-28";"04:50";"07:30";;"NE-NW";;"4,00";"4,00";"2005";;;;"unknown";;;"ME9075";"I";
+"303";"70";"Paadenurme";"Renno Nellis";"Ida-Viru";"2006-06-04";"05:10";"08:10";;"NE-NW";;"4,00";"4,00";"2006";;;;"unknown";;;"MF9045";"I";
+"304";"71";"Toku";"Tarmo Evestus";"Võru";"2004-06-05";"05:20";"07:45";;;;"4,00";"4,00";"2004";;;;"unknown";;;"ME6515";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"305";"72";"Puhja";"Asko Lõhmus";"Tartu";"2004-06-14";"04:10";"07:35";;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"ME6065";"I";
+"306";"73";"Kose";"Rein Nellis";"Võru";"2005-05-29";"05:15";"08:00";;"NE-NW";;"4,00";"4,00";"2005";;;;"unknown";;;"NE0005";"I";
+"307";"74";"Esna";"Sven Aun ja Mati Salumäe";"Järva";"2007-06-04";"04:00";"07:50";;"NW-NE?";;"4,00";"4,00";"2007";;;;"unknown";;;"MF3030";"I";
+"308";"75";"Laukna";"Renno Nellis";"Rapla";"2005-06-02";"04:30";"08:05";;;;"4,00";"4,00";"2005";;;;"unknown";"nihutatud!!!";"Vist mitte. Loendused märgitud ette antud kaardile, märkmed nihutamise kohta puuduvad";"LF3525/3530";"I";"Selgitada, kas 2005 loendati nihutamata transekt. Kui jah, nihutatud transektile tuleb anda uus ID ja käsitleda uue transektina."
+"309";"76";"Aulepa";"Renno Nellis";"Lääne";"2005-05-31";"05:00";"08:30";;;;"4,00";"4,00";"2005";;;;"unknown";;;"FL4550";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"310";"77";"Lustivere";"Renno Nellis";"Jõgeva";"2005-05-26";"05:00";"08:40";;;;"4,00";"4,00";"2005";;;;"unknown";;;"MF4500";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"311";"78";"Tsirgu";"Renno Nellis";"Võru";"2007-06-02";"04:50";"07:20";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"NE2000";"I";
+"312";"79";"Kiuma";"Tarmo Evestus";"Põlva";"2005-05-28";"05:30";"07:40";;"?";;"4,00";"4,00";"2005";;;;"unknown";;;"ME9530";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"313";"80";"Pataste";"Renno Nellis";"Jõgeva";"2004-06-02";"04:20";"07:50";;;;"4,00";"4,00";"2004";;;;"unknown";;;"ME8590";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"314";"81";"Puhatu";"Indrek Tammekänd";"Ida-Viru";"2006-05-29";;;;;;"4,00";"4,00";"2006";;;;"unknown";;;"NF4060";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"315";"82";"Mustla";"Renno Nellis";"Järva";"2006-06-10";"04:50";"07:20";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"MF1045";"I";
+"316";"83";"Lehtse";"Eerik Leibak";"Järva";"2008-06-05";"04:15";"08:30";;"NW-NE";;"4,00";"4,00";"2008";;;;"unknown";;;"MF3065";"I";
+"317";"84";"Vändra";"Margus Ellermaa";"Pärnu";"2008-05-24";"04:20";"07:40";;;;"4,00";"4,00";"2008";;;;"unknown";;;"LF8500";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"318";"85";"Tähtvere";"Raul Rosenvald";"Tartu";;;;;"NE-NW";;"4,00";"4,00";"2005";;;;"unknown";;;"ME8070";"I";
+"319";"86";"Kiisa";"Margus Ellermaa";"Viljandi";"2008-05-31";"04:10";"07:40";;;;"4,00";"4,00";"2008";;;;"unknown";;;"ME0560";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"320";"87";"Väikemõisa";"Riho Männik";"Viljandi";;"05:05";"08:00";;"NW-NE";;"3,80";"4,00";"2006";;;;"unknown";"nihutada";;"ME2070";"I";"Selgitada, kas 2006 loendati nihutamata transekt. Kui jah, nihutatud transektile tuleb anda uus ID ja käsitleda uue transektina."
+"321";"88";"Nätsi";"Inz";"Pärnu";;"04:30";"08:00";;;;"4,00";"4,00";"2008";;;;"unknown";"nurgad";;"FK7085/LE2585";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"322";"89";"Muusika";"Aarne ja Eet Tuule";"Harju";"2008-05-25";"04:15";"09:05";;;;"4,00";"4,00";"2008";;;;"unknown";"nurgad";;"LF5065/LF5565";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"323";"90";"Hellamaa";"Hannes Pehlak";"Saare";"2005-06-05";"05:40";"10:20";;;;"4,00";"4,00";"2005";;;;"unknown";;;"FK3595";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"324";"91";"Vanaveski";"Margus Ellermaa";"Viljandi";"2008-05-30";"04:10";"08:25";;;;"4,00";"4,00";"2008";;;;"unknown";;;"ME0070";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"325";"92";"Sinalepa";"Hannes Pehlak";"Lääne";"2005-06-09";"05:10";"09:30";;;;"4,00";"4,00";"2005";;;;"unknown";;;"FL4520";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"326";"93";"Kiviküla";"Tarmo Evestus";"Valga";"2007-05-31";"05:00";"08:00";;"NE-NW";;"4,00";"4,00";"2007";;;;"unknown";;;"ME4520";"I";
+"327";"94";"Särgla";"Rein Nellis";"Tartu";"2004-06-02";;;;"NE-NW";;"3,89";"4,00";"2004";;;;"unknown";;;"ME9090/ME9095";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"328";"95";"Järveküla";"Tarmo Evestus ja Margit Turb";"Tartu";"2008-06-04";"04:30";"06:45";;"NW-NE?";;"4,00";"4,00";"2008";;;;"unknown";;;"pms ME5060";"I";
+"329";"96";"Rääka";"Riho Männik";"Viljandi";"2006-06-03";"05:00";"08:50";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"ME0590";"I";
+"330";"97";"Ülenurme";"Riho Kinks";"Tartu";"2008-06-02";"04:25";"08:50";;;;"3,63";"4,00";"2008";;;;"unknown";"transektile ehitatud asulat ei loetud, mistõttu loendus lühem kui 4 km";;"ME9530";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"331";"98";"Piibe";"Rein Nellis";"Lääne-Viru";"2004-05-28";;;;"NE-NW";;"4,00";"4,00";"2004";;;;"unknown";;;"MF5030";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"332";"99";"Võtikvere";"Eerik Leibak";"Jõgeva";"2008-06-01";"04:30";"09:30";;"NW-NE";;"4,00";"4,00";"2008";;;;"unknown";;;"MF9025";"I";
+"333";"100";"Vätta";"Mati Martinson";"Saare";"2006-05-31";"06:30";"09:30";;"NE-NW";;"4,00";"4,00";"2006";;;;"unknown";"nurgad";;"FK0055";"I";
+"334";"101";"Kureküla";"Tarmo Evestus ja Margit Turb";"Tartu";"2008-06-05";"05:15";"07:45";;;;"4,00";"4,00";"2008";;;;"unknown";;;"ME4555/ME5055";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"335";"102";"Pilpa";"Tarmo Evestus ja Ain Nurmla";"Valga";"2007-05-24";"05:20";"08:45";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"ME1530";"I";
+"336";"103";"Soodla";"Eerik Leibak";"Harju";"2006-06-02";"04:45";"08:15";;"NW-NE";;"4,00";"4,00";"2006";;;;"unknown";;;"MF1580";"I";
+"337";"104";"Kaukvere";"Eerik Leibak";"Ida-Viru";"2007-06-06";"06:15";"11:00";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"MF9555";"I";
+"338";"105";"Rae";"Jaak Tammekänd";"Pärnu";"2004-06-06";"05:40";"09:50";;"NW-NE?";;"4,00";"4,00";"2004";;;;"unknown";;;"LE7040";"I";
+"339";"106";"Kloostri";"Hannes Pehlak";"Lääne";"2007-06-03";"05:20";"09:00";;"???";;"4,00";"4,00";"2007";;;;"unknown";;;"FL6515";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"340";"107";"Kõrvenurga";"Renno Nellis";"Harju";"2006-06-09";"06:15";"08:40";;"NW-NE";;"2,82";"4,00";"2006";;;;"unknown";;;"MF0550";"I";
+"341";"108";"Auvere";"Eerik Leibak";"Ida-Viru";"2007-06-04";"05:00";"10:00";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"NF5075";"I";
+"342";"109";"Vätse";"Renno Nellis";"Lääne";"2005-06-05";"05:10";"07:50";;;;"4,00";"4,00";"2005";;;;"unknown";;;"FL5025";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"343";"110";"Rimmu";"Margus Ellermaa";"Viljandi";"2008-05-29";"04:00";"08:15";;;;"4,00";"4,00";"2008";;;;"unknown";"Transekti nihutatud 1 km N";;"ME0555";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"344";"111";"Hiiemetsa";"Eerik Leibak";"Ida-Viru";"2007-06-05";"05:15";"10:00";;;;"4,00";"4,00";"2007";;;;"unknown";;;;"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"345";"112";"Kiidjärve";"Tarmo Evestus";"Põlva";"2005-06-07";"05:20";"08:30";;;;"4,00";"4,00";"2005";;;;"unknown";;;"ME9540";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"346";"113";"Ädu";"Tarmo Evestus";"Valga";"2004-06-04";"05:15";"07:30";;;;"4,00";"4,00";"2004";;;;"unknown";;;"ME5030/ME5530";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"347";"114";"Riisselja";"Indrek Tammekänd";"Pärnu";"2007-06-05";"05:00";"08:00";;;;"4,00";"4,00";"2007";;;;"unknown";;;"LE7055";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"348";"115";"Seliküla";"Sven Aun ja Mati Salumäe";"Järva";"2007-06-02";"04:00";"07:10";;"NW-NE?";;"4,00";"4,00";"2007";;;;"unknown";;;"MF3045";"I";
+"349";"116";"Melliste";"Riho Kinks";"Tartu";"2006-06-04";;;;;;"4,16";"4,00";"2006";;;;"unknown";"nihutatud!!!";;"NE0060";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"350";"117";"Lümandu";"Renno Nellis";"Rapla";"2007-05-25";"04:30";"07:30";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"LF6060";"I";
+"351";"118";"Kotkapesa";"Jaak Tammekänd";"Pärnu";"2007-06-05";;;;;;"4,00";"4,00";"2007";;;;"unknown";;;"LE5555";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"352";"119";"Krootuse";"Tarmo Evestus";"Põlva";"2006-06-10";"04:45";"07:40";;"NE-NW";;"4,00";"4,00";"2006";;;;"unknown";;;"ME8535";"I";
+"353";"120";"Luime";"Renno Nellis";"Harju";"2007-06-04";"04:50";"07:20";;"NW-NE";;"4,00";"4,00";"2007";;;;"unknown";;;"LF8580";"I";
+"354";"121";"Lahemaa";"Renno Nellis";"Harju";"2005-06-14";"05:40";"06:55";;;;"1,50";"4,00";"2005";;;;"unknown";"ilm läheb tuuliseks ja loendus jääb pooleli";;"Aasumetsa";"I";"meta-andmeid vaja kontrollida töökaardilt/loendajalt"
+"355";"122";"Kobru";"Renno Nellis";"Harju";"2008-05-31";"05:00";"08:20";;"NW-NE";;"4,00";"4,00";"2008";;;;"unknown";;;;"I";
+"356";"123";"Karusmaa";"Renno Nellis";"Rapla";"2008-06-01";"04:55";"08:20";;"NW-NE";;"4,00";"4,00";"2008";;;;"unknown";;;;"I";
+"357";"124";"Luusika";;"Lääne-Viru";;;;;;;;"4,00";;;;;"unknown";;;;"I";
+"358";"125";"Tuiu";"Rein Nellis";"Saare";"2008-06-08";"05:20";"09:20";;"NE-NW";;"4,00";"4,00";"2008";;;;"unknown";;;"Mustjala";"I";
+"359";"001";"Allaste";"Margus Ellermaa";"Viljandi";"2024-05-26";"04:30";"07:40";;"päripäeva";"2100";"4,00";"4,00";"2024";"-2";"16";"yes";"y";"SW-nurgas jõgi mida ei ületaud. Transekt joonestati nurgas veidi ümber nagu 2008. Vaata töökaardilt.";;;"I";
+"147";"002";"Lõopõllu";"Mati Martinson";"Saare";"2022-06-09";"05:30";"10:00";"SE 3650";"vastupäeva";"3650";"4,00";"4,00";"2022";"13";"17";"yes";"n";;;;"I";
+"360";"003";"Rannapungerja";"Renno Nellis";"Ida-Viru";"2024-06-04";"04:45";"07:35";;"päripäeva";"1700";"4,00";"4,00";"2024";"6";"17";"yes";"n";;;;"I";
+"361";"004";"Vahakulmu";"Pelle Mellov";"Lääne-Viru";"2024-06-11";"04:04";"07:38";;"päripäeva";"2000";"4,00";"4,00";"2024";"3";"17";"no";"n";;;;"I";
+"148";"005";"Nurtu-nõlva";"Renno Nellis";"Rapla";"2021-06-11";"05:05";"07:45";"SE 550 m";"päripäeva";"550";"4,00";"4,00";"2021";;;;"n";;;;"I";
+"362";"006";"Puujala";"Renno Nellis";"Ida-Viru";"2024-06-06";"05:05";"08:05";;"päripäeva";"1530";"4,00";"4,00";"2024";"-3";"20";"yes";"n";;;;"I";
+"149";"007";"Saru";"Tarmo Evestus";"Võru";"2021-06-03";"05:00";"06:50";"NW";"päripäeva";"2000";"4,00";"4,00";"2021";"11";"16";"yes";"n";;;;"I";
+"150";"008";"Piiri";"Riho Kinks";"Tartu";"2022-06-01";"04:35";"08:10";"NW 160 m";"päripäeva";"2160";"4,00";"4,00";"2022";"-2";"15";"yes";"n";;;;"I";
+"363";"009";"Sonda";"Renno Nellis";"Ida-Viru";"2024-06-07";"05:25";"08:15";;"päripäeva";"50";"4,00";"4,00";"2024";"-6";"18";"no";"n";;;;"I";
+"151";"010";"Vooru";"Liisi Peets";"Viljandi";"2021-06-06";"04:13";"07:47";"SE";"vastupäeva";"0";"4,00";"4,00";"2021";"-2";"14";"no";"n";;;;"I";
+"152";"011";"Kääni";"Tarmo Evestus";"Tartu/Valga";"2021-05-29";"04:30";"07:20";"SE";"vastupäeva";"0";"4,00";"4,00";"2021";"-4";"17";"yes";"n";;;;"I";
+"153";"012";"Kädva";"Renno Nellis";"Järva";"2023-05-25";"05:30";"08:45";"SE 800 m";"päripäeva";"800";"4,00";"4,00";"2023";"-2";"18";"yes";"n";;;;"I";
+"154";"013";"Võmmorski";"Liisi Peets";"Võru";"2023-06-07";"04:36";"07:19";"SW";"vastupäeva";"1000";"4,00";"4,00";"2023";"2";"15";"no";"n";;;;"I";
+"155";"014";"Kärde";"Liis Keerberg";"Jõgeva";"2023-06-07";"04:56";"08:53";"SW";"päripäeva";"1000";"4,00";"4,00";"2023";"4";"17";"no";"n";;;;"I";
+"156";"015";"Kalana";"Liisi Peets";"Jõgeva";"2022-06-06";"04:38";"07:50";"5 SE";"päripäeva";"0";"4,00";"4,00";"2022";"11";"17";"no";"n";;;;"I";
+"157";"016";"Ardu";"Annabel Runnel";"Harju";"2021-05-31";"04:45";"09:14";"SW 380 m";"päripäeva";"1380";"4,00";"4,00";"2021";"3";"16";"no";"y";;;;"I";
+"158";"017";"Pugritsa";"Tarmo Evestus";"Valga";"2021-06-02";"04:30";"07:00";"NE";"päripäeva";"3000";"4,00";"4,00";"2021";"-10";"13";"yes";"n";;;;"I";
+"364";"018";"Jõhvi";"Margus Pensa";"Ida-Viru";"2024-05-31";"03:37";"07:16";;"päripäeva";"3955";"4,00";"4,00";"2024";"-7";;"no";"n";;;;"I";"Eelmine loendus jäi pooleli/loeti ainult 800m"
+"159";"019";"Kehra";"Eerik Leibak";"Harju";"2021-05-28";"04:30";"09:15";"SW 600";"vastupäeva";"600";"4,00";"4,00";"2021";"0";"16";"yes";"y";;;;"I";
+"160";"020";"Sangla";"Riho Kinks";"Tartu";"2022-06-05";"04:20";"07:00";"SE";"vastupäeva";"0";"4,00";"4,00";"2022";"-2";"16";"yes";"n";"Kuupäev täpsustatud, töökaardil vale";;;"I";
+"161";"021";"Feodori";"Tarmo Evestus";"Ida-Viru";"2022-06-07";"04:15";"06:10";"SE";"päripäeva";"0";"4,00";"4,00";"2022";"-3";"18";"no";"n";;;;"I";
+"162";"022";"Saikla";"Rein Nellis";"Saare";"2021-06-11";"05:20";"08:10";"SE 500 m";"vastupäeva";"3500";"4,00";"4,00";"2021";"-2";"13";"yes";"n";;;;"I";
+"163";"023";"Haeska";"Renno Nellis";"Lääne";"2023-06-11";"05:15";"08:30";"NE 800 m";"päripäeva";"3800";"4,00";"4,00";"2023";"2";"18";"no";"n";;;;"I";
+"365";"024";"Sõru";"Indrek Tammekänd";"Hiiumaa";"2024-05-28";"04:45";"08:45";;"päripäeva";"3370";"4,00";"4,00";"2024";"3";"20";"no";"y";;;;"I";
+"164";"025";"Kaiu";"Renno Nellis";"Rapla";"2022-06-05";"05:50";"07:50";"SE 150 m";"päripäeva";"150";"4,00";"4,00";"2022";"0";"15";"yes";"n";;;;"I";
+"165";"026";"Leipste";"Indrek Tammekänd";"Pärnu/Viljandi";"2023-06-08";"05:10";"08:10";"NW 50 m";"päripäeva";"2050";"4,00";"4,00";"2023";"2";"19";"yes";"y";;;;"I";
+"166";"027";"Adraku";"Eerik Leibak";"Jõgeva";"2021-06-10";"04:15";"08:30";"NW 450 m";"päripäeva";"2450";"4,00";"4,00";"2021";"-3";"13";"yes";"n";;;;"I";
+"167";"028";"Karjaküla";"Renno Nellis";"Järva";"2023-06-05";"05:30";"09:10";"SE 1400";"vastupäeva";"1400";"4,00";"4,00";"2023";"2";"16";"yes";"n";;;;"I";
+"168";"029";"Mahlamäe";"Renno Nellis";"Rapla";"2022-06-04";"04:50";"07:40";"NW 300 m";"päripäeva";"2300";"4,00";"4,00";"2022";"-1";"16";"yes";"n";;;;"I";
+"169";"030";"Oisu";"Renno Nellis";"Järva";"2023-06-06";"05:35";"08:20";"SW 500 m";"vastupäeva";"500";"4,00";"4,00";"2023";"7";"17";"yes";"n";;;;"I";
+"366";"031";"Hintsiko";"Eerik Leibak";"Võru";"2024-06-04";"03:50";"07:45";;"päripäeva";"1750";"4,00";"4,00";"2024";"-1";"20";"no";"y";;;;"I";
+"367";"032";"Ruuksu";"Eerik Leibak";"Võru";"2024-06-05";"04:10";"08:20";;"päripäeva";"3350";"4,00";"4,00";"2024";"-1";"20";"no";"y";;;;"I";
+"170";"033";"Haage";"Riho Kinks";"Tartu";"2022-05-30";"04:25";"07:50";"NE 730 m";"päripäeva";"3740";"4,00";"4,00";"2022";"2";"18";"no";"n";;;;"I";
+"368";"034";"Võivaku";"Eerik Leibak";"Viljandi";"2024-06-15";"04:25";"08:55";;"päripäeva";"3800";"4,00";"4,00";"2024";;"18";"no";"y";;;;"I";"eelmise loenduse kp teadmata"
+"171";"035";"Nilbõ";"Liisi Peets";"Võru";"2023-06-06";"04:06";"07:06";"SE 50 m";"vastupäeva";"3950";"4,00";"4,00";"2023";"3";"16";"no";"n";;;;"I";
+"172";"036";"Vägeva";"Liis Keerberg";"Jõgeva";"2022-06-01";"04:24";"08:07";"SW 635 m";"päripäeva";"1635";"4,00";"4,00";"2022";"4";"18";"no";"n";;;;"I";
+"173";"037";"Mullavere";"Riho Kinks";"Jõgeva";"2021-06-07";"04:08";"07:12";"NW 250 m";"päripäeva";"2250";"4,00";"4,00";"2021";;"13";"yes";"n";;;;"I";
+"174";"038";"Himmiste";"Liisi Peets";"Põlva";"2023-06-02";"04:46";"07:44";"SE";"päripäeva";"0";"4,00";"4,00";"2023";"-2";"15";"no";"n";;;;"I";
+"175";"039";"Pikkjärve";"Liisi Peets";"Põlva";"2021-05-28";"04:24";"07:20";"SE";"vastupäeva";"0";"4,00";"4,00";"2021";"-3";"15";"no";"n";;;;"I";
+"176";"040";"Pikareinu";"Liisi Peets";"Põlva";"2021-06-01";"04:16";"07:08";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"-3";"15";"no";"n";;;;"I";
+"177";"041";"Rahinge";"Riho Kinks";"Tartu";"2022-06-08";"04:10";"07:00";"SE 920";"vastupäeva";"920";"4,00";"4,00";"2022";"4";"18";"no";"n";;;;"I";
+"178";"042";"Järni";"Annabel Runnel";"Lääne-Viru";"2022-06-11";"04:41";"09:17";"SW 800 m";"päripäeva";"1800";"4,00";"4,00";"2022";"-3";"16";"no";"n";;;;"I";
+"179";"044";"Kesknõmme";"Rein Nellis";"Saare";"2021-05-31";"05:05";"08:00";"NE 400 m";"päripäeva";"3400";"4,00";"4,00";"2021";"-10";"16";"no";"n";;;;"I";
+"180";"045";"Viitka";"Tarmo Evestus";"Võru";"2022-05-30";"04:40";"08:10";"SE";"päripäeva";"0";"4,00";"4,00";"2022";"-3";"15";"no";"n";"abiriba pole ilmselt loendatud, sest pea kõik vaatlused on põhi ja vaheribadel.";;;"I";
+"181";"046";"Tornimäe";"Rein Nellis";"Saare";"2022-06-09";"05:30";"09:00";"SW 700";"vastupäeva";"1700";"4,00";"4,00";"2022";"3";"14";"no";"n";;;;"I";
+"369";"047";"Murru";"Eerik Leibak";"Jõgeva";"2024-05-30";"04:40";"09:00";;"päripäeva";"1900";"4,00";"4,00";"2024";"4";"18";"no";"y";;;;"I";
+"182";"048";"Pärnassaare";"Indrek Tammekänd";"Ida-Viru";"2023-05-31";"05:00";"08:30";"SW 200 m";"päripäeva";"1200";"4,00";"4,00";"2023";;"17";"yes";"y";;;;"I";
+"183";"049";"Kõima";"Indrek Tammekänd";"Pärnu";"2023-05-28";"05:00";"08:05";"NW";"päripäeva";"2000";"4,00";"4,00";"2023";"-3";"19";"yes";"y";;;;"I";
+"184";"050";"Varessaare";"Indrek Tammekänd";"Ida-Viru";"2023-06-01";"04:50";"07:50";"SE";"päripäeva";"0";"4,00";"4,00";"2023";;"17";"yes";"y";;;;"I";
+"185";"052";"Valuste";"Art-Villem Adojaan";"Pärnu";"2023-06-12";"04:16";"07:34";"SE";"päripäeva";"0";"4,00";"4,00";"2023";"-1";"17";"no";;;;;"I";
+"370";"053";"Isabella";"Indrek Tammekänd";"Hiiumaa";"2024-05-27";"04:45";"08:20";;"vastupäeva";"3000";"4,00";"4,00";"2024";"0";"20";"no";"y";;;;"I";
+"186";"054";"Lohu";"Renno Nellis";"Rapla";"2022-06-06";"05:05";"07:50";"NE 20 m";"päripäeva";"3020";"4,00";"4,00";"2022";"-1";"17";"yes";"n";;;;"I";
+"371";"055";"Aruküla";"Vilja Padonik";"Lääne-Viru";"2024-06-03";"04:27";"08:15";;"päripäeva";"2400";"4,00";"4,00";"2024";"-3";"18";"no";"n";"eelmisel korral oli loendus pooleli jäetud vms";"Ainult põhi- ja vaheriba loetud - ribade tulemused iseenesest ok ja usutavad";;"I";
+"372";"057";"Pillardi";"Indrek Tammekänd";"Võru";"2024-06-01";"05:00";"09:20";;"vastupäeva";"2000";"4,00";"4,00";"2024";"-2";"17";"no";"y";"Aastal 2007 loeti nihutatud transekti. 2024. aasta korrati seda nihutatud transekti. EOÜ-l ringleb ka transektikihtide versioon, kus selle transekti nihutamist pole tehtud ja tekitab segadust.";;;"I";
+"187";"058";"Kiratsi";"Rein Nellis";"Saare";"2021-06-07";"05:15";"08:20";"NW 145 m";"päripäeva";"2145";"4,00";"4,00";"2021";"-1";"16";"yes";"n";;;;"I";
+"188";"059";"Päinurme";"Liis Keerberg";"Järva";"2022-06-07";"04:25";"07:08";"SE 2180";"vastupäeva";"2180";"4,00";"4,00";"2022";"-1";"15";"no";"n";;;;"I";
+"189";"060";"Sultsi";"Riho Männik";"Viljandi";"2021-06-02";"04:30";"07:10";"SE 420 m";"päripäeva";"420";"4,00";"4,00";"2021";"-1";"13";"no";"n";;;;"I";
+"190";"061";"Utsali";"Liis Keerberg";"Jõgeva";"2022-06-12";"03:30";"07:42";"NW 690 m";"päripäeva";"2690";"4,00";"4,00";"2022";"4";"18";"no";"n";"Esialgset (2004. aastaga võrreldes) transekti on jõe pärast nihutatud 1650 m põhja poole. Sisuliselt tuleks nimetada uueks transektiks ja mitte võrrelda vanaga";;;"I";
+"191";"062";"Laimjala";"Rein Nellis";"Saare";"2022-06-07";"05:15";"09:15";"SE+220m";"päripäeva";"220";"4,00";"4,00";"2022";"8";"16";"no";"n";;;;"I";
+"373";"063";"Vihtra";"Margus Ellermaa";"Pärnu";"2024-05-24";"04:40";"07:30";;"päripäeva";"1700";"4,00";"4,00";"2024";"-1";"16";"yes";"y";"jõe poolt vahetati autoga ringi tehes";;;"I";
+"374";"064";"Anna";"Pelle Mellov";"Järva";"2024-06-14";"05:00";"07:51";;"vastupäeva";"3000";"4,00";"4,00";"2024";"0";"19";"no";"n";;;;"I";
+"192";"065";"Ratva";"Eerik Leibak";"Ida-Viru";"2022-05-30";"03:15";"06:45";"NE+850m";"vastupäeva";"3850";"4,00";"4,00";"2022";"0";"16";"yes";"y";;;;"I";
+"375";"066";"Vao";"Pelle Mellov";"Lääne-Viru";"2024-06-12";"03:29";"06:51";;"päripäeva";"3000";"4,00";"4,00";"2024";"2";"18";"no";"n";;;;"I";
+"193";"067";"Rääma";"Indrek Tammekänd";"Pärnu";"2023-05-29";"05:10";"07:30";"NW 690 m";"päripäeva";"2690";"4,00";"4,00";"2023";"-7";"19";"yes";"y";;;;"I";
+"194";"069";"Vesneri";"Liis Keerberg";"Tartu";"2023-06-03";"04:17";"07:27";"SE+3740";"vastupäeva";"3740";"4,00";"4,00";"2023";"6";"18";"no";"n";"kirdenurga kraavi ei suudetud ületada, natuke lõigatud, linnud märgitud ette ja taha ribadele";;;"I";
+"376";"070";"Paadenurme";"Renno Nellis";"Ida-Viru";"2024-06-05";"05:00";"08:05";;"vastupäeva";"3900";"4,00";"4,00";"2024";"1";"18";"yes";"n";;;;"I";
+"195";"071";"Toku";"Tarmo Evestus";"Võru";"2021-06-10";"05:00";"07:40";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"5";"17";"yes";"n";;;;"I";
+"196";"072";"Puhja";"Riho Kinks";"Tartu";"2023-06-14";"04:09";"07:55";"SE+50";"päripäeva";"50";"4,00";"4,00";"2023";"0";"19";"no";"n";"kaardile loendaja alguspunkti ise valesti kirjutanud";;;"I";
+"377";"073";"Kose";"Liis Keerberg";"Võru";"2024-05-29";"05:19";"09:42";;"vastupäeva";"2090";"4,00";"4,00";"2024";"17";"19";"no";"n";"Meetrid 0-2090 ja 3100-4000 vastupäeva (Valgjärvest Verijärveni), ülejäänud päripäeva. Veriärve teist poolt vahetati autoga.";;;"I";
+"197";"074";"Esna";"Annabel Runnel";"Järva";"2023-06-03";"04:34";"08:41";"SE+3630";"päripäeva";"3630";"4,00";"4,00";"2023";"-1";"16";"no";"y";;;;"I";
+"198";"075";"Laukna";"Renno Nellis";"Rapla";"2021-06-02";"05:35";"08:20";"NW+635m";"päripäeva";"2635";"4,00";"4,00";"2021";"0";"16";"yes";"n";;;;"I";
+"199";"076";"Aulepa";"Renno Nellis";"Lääne";"2021-06-04";"04:45";"07:25";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"5";"16";"yes";"n";"kaardi serva kirjutatud vastupäeva, mis oli loendaja andmetel viga";;;"I";
+"200";"077";"Lustivere";"Liis Keerberg";"Jõgeva";"2023-06-14";"05:10";"09:30";"SE+740";"päripäeva";"740";"4,00";"4,00";"2023";"19";"18";"no";"n";;;;"I";
+"201";"078";"Tsirgu";"Tarmo Evestus";"Võru";"2022-05-22";"04:40";"07:00";"SE";"päripäeva";"0";"4,00";"4,00";"2022";"-11";"15";"no";"n";"abiriba pole ilmselt loendatud, sest pea kõik vaatlused on põhi ja vaheribadel. Ulmeliselt varajane loenduskuupäev.";;;"I";
+"202";"079";"Kiuma";"Tarmo Evestus";"Põlva";"2021-05-31";"04:50";"06:40";"SW";"vastupäeva";"1000";"4,00";"4,00";"2021";"3";"16";"yes";"n";;;;"I";
+"378";"080";"Pataste";"Jaanus Elts";"Jõgeva";"2024-06-03";"04:32";"08:42";;"päripäeva";"1920";"4,00";"4,00";"2024";"1";"20";"no";"n";;;;"I";
+"203";"081";"Puhatu";"Indrek Tammekänd";"Ida-Viru";"2023-06-02";"05:00";"08:00";"SE";"päripäeva";"0";"4,00";"4,00";"2023";;"17";"yes";"y";;;;"I";
+"379";"082";"Mustla";"Renno Nellis";"Järva";"2024-05-27";"04:50";"08:30";;"päripäeva";"2000";"4,00";"4,00";"2024";"-14";"18";"no";"n";;;;"I";
+"204";"083";"Lehtse";"Eerik Leibak";"Lääne-Viru";"2021-06-06";"04:10";"07:50";"SW+800";"päripäeva";"1800";"4,00";"4,00";"2021";"1";"13";"yes";"y";"imetajad on osaliselt loetud";;;"I";
+"380";"084";"Vändra";"Johannes Silvonen";"Pärnu";"2024-05-24";"04:30";"08:20";;"päripäeva";"1000";"4,00";"4,00";"2024";"0";"18";"no";"y";;;;"I";
+"205";"085";"Tähtvere";"Liis Keerberg";"Tartu";"2021-06-14";"04:05";"07:56";"NE+770m";"päripäeva";"3770";"4,00";"4,00";"2021";;"16";"no";"n";;;;"I";
+"381";"086";"Kiisa";"Johannes Silvonen";"Viljandi";"2024-05-26";"04:15";"07:14";;"päripäeva";"3100";"4,00";"4,00";"2024";"-5";"16";"no";"y";;;;"I";
+"382";"087";"Väikemõisa";"Riho Kinks";"Viljandi";"2024-05-26";"04:35";"08:45";;"päripäeva/vastupäeva";"2000";"4,00";"4,00";"2024";;"18";"no";"n";"Alguspunktist meetrid 2000-3650 päripäeva kuni jõeni. Siis meetrid 2000 kuni 3650 vastupäeva kuni jõeni.";;;"I";
+"206";"088";"Nätsi";"Indrek Tammekänd";"Pärnu";"2022-06-09";"04:54";"08:03";"SW+500m";"päripäeva";"1500";"4,00";"4,00";"2022";;"14";"yes";"y";;;;"I";
+"207";"090";"Hellamaa";"Rein Nellis";"Saare";"2022-06-11";"05:15";"08:50";"NW+400m";"vastupäeva";"2400";"4,00";"4,00";"2022";"6";"17";"no";"n";;;;"I";
+"383";"091";"Vanaveski";"Johannes Silvonen";"Viljandi";"2024-05-25";"04:10";"07:45";;"päripäeva";"3300";"4,00";"4,00";"2024";"-5";"16";"no";"n";;;;"I";
+"208";"092";"Sinalepa";"Renno Nellis";"Lääne";"2023-06-07";"05:20";"08:30";"SE+700";"vastupäeva";"700";"4,00";"4,00";"2023";"-2";"18";"no";"n";;;;"I";
+"209";"093";"Kiviküla";"Tarmo Evestus";"Valga";"2021-05-28";"04:50";"07:20";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"-3";"14";"yes";"n";"abiriba pole ilmselt loendatud, sest pea kõik vaatlused on põhi ja vaheribadel.";;;"I";
+"384";"094";"Särgla";"Liis Keerberg";"Tartu";"2024-06-14";"04:49";"08:24";;"vastupäeva";"3100";"3,10";"4,00";"2024";"12";"20";"no";"n";"Loendusmeetrid 1300-2200 oli jäetud jõe pärast tegemata, kuigi sild oli lähedal. 2004. aastal oli loetud jõe teist poolt veidi kuid peamiselt samuti mitte. Lisaks 2004 oli asendatud lugemata jäänud osa mõned sajad meetrid muutes transekti trajektoori Kääpa jõe suunaliselt meetritel 1000 kuni 1300. Selle transekti andmeid pole soovitatav kaasata aastatest 2004 ja 2024 trendide arvutamisesse. Transekti saaks vabalt praegusel kujul kogunisti lugeda, sest ainult 500m kaugusel transekti nurgapunktist on sild.";;;"I";
+"210";"095";"Järveküla";"Liisi Peets";"Tartu";"2021-06-05";"04:10";"07:21";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"1";"13";"no";"n";;;;"I";
+"211";"096";"Rääka";"Annabel Runnel";"Viljandi";"2022-06-07";"04:50";"08:47";"NE+550m";"päripäeva";"3550";"4,00";"4,00";"2022";"4";"16";"no";"n";;;;"I";
+"212";"097";"Ülenurme";"Riho Kinks";"Tartu";"2021-06-03";"04:10";"08:45";"NW";"vastupäeva";"2000";"4,00";"4,00";"2021";;"13";"yes";"n";"takistuste tõttu transekti loetud paar korda paralleelselt originaalist eemal. Pikkus jäi samaks.  Et jätkus korrata, vaata selle transekti töökaarti.";;;"I";
+"385";"098";"Piibe";"Pelle Mellov";"Lääne-Viru";"2024-06-05";"04:21";"09:19";;"vastupäeva";"3000";"4,00";"4,00";"2024";"8";"20";"no";"n";;;;"I";
+"213";"099";"Võtikvere";"Eerik Leibak";"Jõgeva";"2023-06-01";"04:15";"08:00";"SE+2450";"vastupäeva";"2450";"4,00";"4,00";"2023";"0";"15";"yes";"n";;;;"I";
+"214";"100";"Vätta";"Mati Martinson";"Saare";"2022-06-07";"05:20";"09:45";"NE+400m";"päripäeva";"3400";"4,00";"4,00";"2022";"8";"16";"yes";"n";;;;"I";
+"386";"101";"Kureküla";"Veljo Volke";"Tartu";"2024-06-09";"05:05";"07:08";;"päripäeva";"0";"4,00";"4,00";"2024";"4";"16";"no";"n";;;;"I";
+"215";"102";"Pilpa";"Tarmo Evestus";"Valga";"2021-05-25";"04:35";"06:55";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"1";"14";"yes";"n";"abiriba pole ilmselt loendatud, sest pea kõik vaatlused on põhi ja vaheribadel.";;;"I";
+"216";"103";"Soodla";"Eerik Leibak";"Harju";"2023-06-06";"04:15";"07:50";"SE+2700";"päripäeva";"2700";"4,00";"4,00";"2023";"4";"17";"yes";"n";;;;"I";
+"217";"104";"Kaukvere";"Eerik Leibak";"Ida-Viru";"2023-06-08";"04:15";"08:30";"SE+1450";"päripäeva";"1450";"4,00";"4,00";"2023";"2";"16";"yes";"n";;;;"I";
+"218";"105";"Rae";"Jaak Tammekänd";"Pärnu";"2023-06-08";"04:42";"09:08";"SE+3900";"päripäeva";"3900";"4,00";"4,00";"2023";"2";"19";"yes";"n";"kaardile loendaja alguspunkti ise valesti kirjutanud";;;"I";
+"219";"106";"Kloostri";"Art-Villem Adojaan";"Pärnu";"2023-06-06";"04:21";"07:33";"SE+1000";"päripäeva";"1000";"4,00";"4,00";"2023";"3";"16";"no";"unknown";"Kagupunktist päripäeva lugedes loendusmeetritel 2600-2950 (ehk põhjakülje lõpuosas) transekti loetud paralleelselt 100 meetrit lõuna pool - ületamatu kanali pärast.";;;"I";
+"220";"107";"Kõrvenurga";"Annabel Runnel";"Harju";"2022-06-06";"04:48";"09:06";"SE+600m";"päripäeva";"600";"4,00";"4,00";"2022";"3";"16";"no";"y";"mõned lühendid ebaselged, ei selgunud ka loendaja käest";;;"I";
+"221";"108";"Auvere";"Eerik Leibak";"Ida-Viru";"2022-06-07";"03:30";"07:20";"SW+450m";"vastupäeva";"1450";"4,00";"4,00";"2022";"3";"15";"yes";"y";"paar määrmata rähni DENLEU/PICTRI";;;"I";
+"387";"109";"Vätse";"Renno Nellis";"Lääne";"2024-06-03";"05:20";"08:00";;"päripäeva";"380";"4,00";"4,00";"2024";"-2";"19";"yes";"n";;;;"I";
+"388";"110";"Rimmu";"Margus Ellermaa";"Viljandi";"2024-05-25";"04:20";"08:08";;"päripäeva";"400";"4,00";"4,00";"2024";"-4";"16";"yes";"y";;;;"I";
+"222";"111";"Hiiemetsa";"Eerik Leibak";"Ida-Viru";"2022-06-08";"03:10";"06:30";"SE+150m";"vastupäeva";"150";"4,00";"4,00";"2022";"3";"15";"yes";"y";"paar lühendit selgusetud";;;"I";
+"223";"112";"Kiidjärve";"Tarmo Evestus";"Põlva";"2021-06-07";"04:05";"06:00";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"0";"16";"yes";"n";"abiriba pole loendatud, lisaks kahtlaselt kiiresti on läbitud";;;"I";
+"224";"113";"Ädu";"Tarmo Evestus";"Valga";"2021-05-30";"04:40";"06:50";"NW";"päripäeva";"2000";"4,00";"4,00";"2021";"-6";"17";"yes";"n";"abiriba pole ilmselt loendatud, sest pea kõik vaatlused on põhi ja vaheribadel.";;;"I";
+"225";"114";"Riisselja";"Indrek Tammekänd";"Pärnu";"2023-06-06";"05:00";"08:30";"SE+1760";"päripäeva";"1760";"4,00";"4,00";"2023";;;"yes";"y";;;;"I";
+"389";"115";"Seliküla";"Eerik Leibak";"Järva";"2024-06-11";"04:40";"08:00";;"päripäeva";"700";"4,00";"4,00";"2024";"9";"17";"no";"y";;;;"I";
+"226";"116";"Melliste";"Riho Kinks";"Tartu";"2021-06-04";"04:15";"07:20";"NE";"vastupäeva";"3000";"4,00";"4,00";"2021";"0";"15";"yes";"n";;;;"I";
+"227";"117";"Lümandu";"Annabel Runnel";"Rapla";"2022-05-25";"04:27";"08:10";"SW + 140m";"päripäeva";"1140";"4,00";"4,00";"2022";"0";"15";"no";"y";"Imetajaid on tõenäoliselt loetud?";;;"I";
+"228";"118";"Kotkapesa";"Jaak Tammekänd";"Pärnu";"2023-06-09";"04:22";"08:28";"SE+3200";"päripäeva";"3200";"4,00";"4,00";"2023";;;"yes";"n";"kaardile loendaja alguspunkti ise valesti kirjutanud";;;"I";
+"229";"119";"Krootuse";"Liisi Peets";"Põlva";"2021-06-02";"03:58";"07:20";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"-8";"15";"no";"n";"loendaja kinnitas, et abiriba ei loendatud, va. I/II/III kaitsekategooria liigid";;;"I";
+"230";"120";"Luime";"Annabel Runnel";"Harju";"2021-06-01";"04:22";"08:28";"SW +400m";"päripäeva";"1400";"4,00";"4,00";"2021";"3";"14";"no";"y";"Imetajaid on loetud.";;;"I";
+"231";"121";"Lahemaa";"Annabel Runnel";"Lääne-Viru";"2021-06-12";"04:31";"08:26";"NW";"päripäeva";"2000";"3,90";"4,00";"2021";"2";"16";"no";"y";"SW-nurka lõigatud käärulise jõe pärast. Imetajaid on loetud.";;;"I";
+"232";"124";"Luusika";"Liisi Peets";"Lääne-Viru";"2022-06-07";"04:38";"08:07";"SE";"päripäeva";"0";"4,00";"4,00";"2022";;;"uus";"n";"loendaja kinnitas, et abiriba ei loendatud, va. I/II/III kaitsekategooria liigid";;;"I";
+"233";"125";"Tuiu";"Rein Nellis";"Saare";"2021-06-02";"04:55";"07:55";"SE";"päripäeva";"0";"4,00";"4,00";"2021";"-6";"13";"yes";"n";;;;"I";
+"234";"043";"Suru";"Joosep Tuvi";"Harju";"2021-06-10";"04:37";"07:12";;"vastupäeva";"0";"4,34";"4,34";"2021";"12";"17";"no";"n";"2004. aastal nihutati transekti lennust, ehk seda loendust ei või pidada kordusena.";;;"I";
+"235";"051";"Laagri";"Aarne Tuule";"Harju";"2022-06-01";"05:00";"08:15";;"päripäeva";"1240";"4,00";"4,00";"2022";"2";"17";"yes";"n";;;;"I";
+"236";"056";"Tutermaa";"Aarne Tuule";"Harju";"2022-05-30";"05:10";"08:10";;"päripäeva";"3900";"4,00";"4,00";"2022";"4";"18";"yes";"n";;;;"I";
+"237";"068";"Augjärv";"Joosep Tuvi";"Harju";"2021-06-11";"04:25";"07:04";;"vastupäeva";"550";"4,00";"4,00";"2021";"13";"17";"no";"n";"alguspunkt küsitud 3 aastat hiljem ja saadi kirja mälu järgi";;;"I";
+"238";"089";"Muusika";"Aarne Tuule";"Harju";"2022-05-27";"05:00";"08:10";;"vastupäeva";"2677";"4,00";"4,00";"2022";"2";"14";"yes";"n";;;;"I";
+"239";"122";"Kobru";"KORDAMATA";"Harju";;;;;;;;;;;;;;"KORDAMATA";;;;
+"240";"123";"Karusmaa";"KORDAMATA";"Rapla";;;;;;;;;;;;;;"KORDAMATA";;;;
