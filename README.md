@@ -138,7 +138,7 @@ koodis [01-loendus.R](./R/01-loendus.R), mille tulemused (objektid
 `vaatlus` ja `loendus`) on salvestatud faili
 [loendus-20250404.RData](./data/loendus-20250404.RData).
 
-> \[!CAUTION\] Edasisel andmeanalüüsil on tungivalt soovitatav välja
+> :warning: Edasisel andmeanalüüsil on tungivalt soovitatav välja
 > jätta rajad, kus loendati linde vaid põhiribal. Nendeks olid
 > transektid 180, 201, 209, 215, 223, 224, 229, 232.
 
