@@ -130,22 +130,22 @@ ole analoogset kihti ‘rada’, nagu Soome transektide puhul. Atlase
 transektid 122, 123 jäid perioodil 2021-2024 loendamata, mistõttu on
 nende tabelandmetes *year* väljad tühjad.
 
-## Andmete töötlus
+## Andmete kasutamine
 
-Andmete käideldavuse hõlbustamiseks on igale vaatlusele arvutatud kaugus
-transektijoonest, mille põhjal arvutati uus ribakaugus kokku kuuele
-ribale: 1-0..25, 2-25..50, 3-50..100, 4-100..150, 5-150..200,
-6-200..250. Töötlusest jäeti välja vaatlused, mille puhul paaride arv
-oli 0 (PAIRS\<1). Samuti jäeti välja vaatlused, mis olid ebatäpsed
-(PRECISE==FALSE) või viitasid imetajatele (BIRD==FALSE). Kogu
-ettevalmistuse protseduur on kirjeldatud koodis
-[01-loendus.R](./R/01-loendus.R), mille tulemused (objektid `vaatlus` ja
-`loendus`) on salvestatud faili [loendus-20250404.RData](./data).
-Objektid `vaatlus`ja `loendus` kuuluvad klassi sf (*simple features*) ja
-tibble/data.frame, ning nende korrektseks kasutamiseks on vajalik R (R
-Core Team 2020) pakettide sf (Pebesma 2018) ja tidyverse (Wickham et al.
-2019) olemasolu. Järgnevalt on toodud näide, kuidas andmeid R
-töökeskkonda lugeda.
+Andmete kasutamise hõlbustamiseks on loendused ning vaatlused pakitud R
+andmefailideks. Igale vaatlusele arvutatud kaugus transektijoonest,
+mille põhjal arvutati uus ribakaugus kokku kuuele ribale: 1-0..25,
+2-25..50, 3-50..100, 4-100..150, 5-150..200, 6-200..250. Töötlusest
+jäeti välja vaatlused, mille puhul paaride arv oli 0 (PAIRS\<1). Samuti
+jäeti välja vaatlused, mis olid ebatäpsed (PRECISE==FALSE) või viitasid
+imetajatele (BIRD==FALSE). Kogu ettevalmistuse protseduur on kirjeldatud
+koodis [01-loendus.R](./R/01-loendus.R), mille tulemused (objektid
+`vaatlus` ja `loendus`) on salvestatud faili
+[loendus-20250404.RData](./data). Objektid `vaatlus`ja `loendus`
+kuuluvad klassi sf (*simple features*) ja tibble/data.frame, ning nende
+korrektseks kasutamiseks on vajalik R (R Core Team 2020) pakettide sf
+(Pebesma 2018) ja tidyverse (Wickham et al. 2019) olemasolu. Järgnevalt
+on toodud näide, kuidas andmeid R töökeskkonda lugeda.
 
 ``` r
 # install.packages(c("sf", "tidyverse"))
@@ -162,6 +162,40 @@ str(vaatlus)
 > rajad, kus loendati linde vaid põhiribal. Nendeks olid transektid 180,
 > 201, 209, 215, 223, 224, 229, 232.
 
+Üldasustustiheduste arvutamisel R paketiga `Distance` (Miller et al.
+2019) on vajalik teha järgnevad teisendused. `Distance` kasutab nn
+*flatfile*-formaati, milles on kombineeritud nii loenduspanus kui ka
+vaatlusinfo.
+
+``` r
+# install.packges("Distance")
+library(Distance)
+
+# vali liigiks metsvint
+sp <- "FRICOE"
+
+segment.data <- loendus %>%
+  filter(!transekt %in% c(180, 201, 209, 215, 223, 224, 229, 232)) %>%
+  rename(Sample.Label=transekt) %>%
+  mutate(Area=45335, Region.Label="Eesti", Effort=len/1e3) %>%
+  select(Region.Label, Area, Region.Label, Sample.Label, Effort, obsrvr) %>%
+  st_drop_geometry()
+
+observation.data <- vaatlus %>%
+  filter(!transekt %in% c(180, 201, 209, 215, 223, 224, 229, 232)) %>%
+  rename(Sample.Label=transekt, size=paare, object=id, distance=dist) %>%
+  filter(liik==sp) %>%
+  select(Sample.Label,object,distance,size) %>%
+  st_drop_geometry()
+
+flatfile <- segment.data %>%
+  left_join(observation.data, by="Sample.Label") %>%
+  mutate(size=replace_na(size, 0))
+
+fricoe.hr.null <- ds(flatfile, truncation=50, formula=~1, cutpoints=c(0,25,50), key="hr", adjustment=NULL, convert_units=0.001)
+fricoe.hn.null <- ds(flatfile, truncation=50, formula=~1, cutpoints=c(0,25,50), key="hn", adjustment=NULL, convert_units=0.001)
+```
+
 ## Kasutatud allikad
 
 <div id="refs" class="references csl-bib-body hanging-indent"
@@ -172,6 +206,14 @@ entry-spacing="0">
 Järvinen, Olli, and Risto A. Väisanen. 1976. “Finnish Line Transect
 Censuses.” *Ornis Fennica* 53: 115–18.
 <https://lintulehti.birdlife.fi:8443/pdf/artikkelit/984/tiedosto/of_53_115-118_artikkelit_984.pdf>.
+
+</div>
+
+<div id="ref-ds" class="csl-entry">
+
+Miller, David L., Eric Rexstad, Len Thomas, Laura Marshall, and Jeffrey
+L. Laake. 2019. “Distance Sampling in R.” *Journal of Statistical
+Software* 89 (1): 1–28. <https://doi.org/10.18637/jss.v089.i01>.
 
 </div>
 
