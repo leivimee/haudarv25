@@ -132,15 +132,31 @@ nende tabelandmetes *year* väljad tühjad.
 
 ## Andmete töötlus
 
-Järgnevast töötlusest jäeti välja vaatlused, mille puhul paaride arv oli
-0 (PAIRS\<1). Samuti jäeti välja vaatlused, mis olid ebatäpsed
-(PRECISE==FALSE) või viitasid imetajatele (BIRD==FALSE). Andmetele
-lisati kaugus transektijoonest, mille põhjal arvutati uus ribakaugus
-kokku kuuele ribale: 1-0..25, 2-25..50, 3-50..100, 4-100..150,
-5-150..200, 6-200..250. Kogu ettevalmistuse protseduur on kirjeldatud
-koodis [01-loendus.R](./R/01-loendus.R), mille tulemused (objektid
-`vaatlus` ja `loendus`) on salvestatud faili
-[loendus-20250404.RData](./data).
+Andmete käideldavuse hõlbustamiseks on igale vaatlusele arvutatud kaugus
+transektijoonest, mille põhjal arvutati uus ribakaugus kokku kuuele
+ribale: 1-0..25, 2-25..50, 3-50..100, 4-100..150, 5-150..200,
+6-200..250. Töötlusest jäeti välja vaatlused, mille puhul paaride arv
+oli 0 (PAIRS\<1). Samuti jäeti välja vaatlused, mis olid ebatäpsed
+(PRECISE==FALSE) või viitasid imetajatele (BIRD==FALSE). Kogu
+ettevalmistuse protseduur on kirjeldatud koodis
+[01-loendus.R](./R/01-loendus.R), mille tulemused (objektid `vaatlus` ja
+`loendus`) on salvestatud faili [loendus-20250404.RData](./data).
+Objektid `vaatlus`ja `loendus` kuuluvad klassi sf (*simple features*) ja
+tibble/data.frame, ning nende korrektseks kasutamiseks on vajalik R (R
+Core Team 2020) pakettide sf (Pebesma 2018) ja tidyverse (Wickham et al.
+2019) olemasolu. Järgnevalt on toodud näide, kuidas andmeid R
+töökeskkonda lugeda.
+
+``` r
+# install.packages(c("sf", "tidyverse"))
+library(tidyverse)
+library(sf)
+
+load("data/loendus-20250404.RData")
+
+str(loendus)
+str(vaatlus)
+```
 
 > :warning: Edasisel andmeanalüüsil on tungivalt soovitatav välja jätta
 > rajad, kus loendati linde vaid põhiribal. Nendeks olid transektid 180,
@@ -156,6 +172,31 @@ entry-spacing="0">
 Järvinen, Olli, and Risto A. Väisanen. 1976. “Finnish Line Transect
 Censuses.” *Ornis Fennica* 53: 115–18.
 <https://lintulehti.birdlife.fi:8443/pdf/artikkelit/984/tiedosto/of_53_115-118_artikkelit_984.pdf>.
+
+</div>
+
+<div id="ref-sf" class="csl-entry">
+
+Pebesma, Edzer. 2018. “<span class="nocase">Simple Features for R:
+Standardized Support for Spatial Vector Data</span>.” *The R Journal*
+10: 439–46. <https://doi.org/10.32614/RJ-2018-009>.
+
+</div>
+
+<div id="ref-r" class="csl-entry">
+
+R Core Team. 2020. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-tidy" class="csl-entry">
+
+Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
+D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
+“Welcome to the <span class="nocase">tidyverse</span>.” *Journal of Open
+Source Software* 4 (43): 1686. <https://doi.org/10.21105/joss.01686>.
 
 </div>
 
