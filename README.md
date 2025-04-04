@@ -24,7 +24,7 @@ kogumise välitööd”, mille raames korraldati kordusloendused
 transektidel. Kordusloendused “Atlase” transektidel viidi lõpule
 jätkuprojektiga nr RE.4.06.22-0023 “Eesti haudelinnustiku asutustiheduse
 andmestiku kogumine”. Projektide raames sooritati kordusloendused kokku
-196 transektil.
+194 transektil.
 
 Tulemused digitaliseeriti Keskkonnaagentuuri tellimusel. Andmete
 digitaliseerimist viis läbi üks inimene, et tagada kaardiandmete
