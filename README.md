@@ -170,6 +170,18 @@ Andmeväljade nimed objektil `vaatlus` on järgnevad.
 | obsrvr | character | loendaja |
 | geometry | sfc_POINT |  |
 
+**Tabel.** Objekti `loendus` andmeväljad.
+
+| Nimi     | Tüüp           | Kirjeldus                                         |
+|:---------|:---------------|:--------------------------------------------------|
+| skeem    | character      | skeem, ‘atlas’ või ‘soome’                        |
+| transekt | numeric        | transekti number (Soome: 3661-3907, Atlas: 1-125) |
+| len      | numeric        | transekti pikkus                                  |
+| year     | integer        | loenduse aasta                                    |
+| obsrvr   | character      | loenduse kuupäev, YYYY-MM-DD                      |
+| kuupv    | Date           | loendaja                                          |
+| geom     | sfc_LINESTRING |                                                   |
+
 Järgnevalt on toodud näide, kuidas andmeid R töökeskkonda lugeda.
 
 ``` r
@@ -195,21 +207,7 @@ vaatlusinfo.
 ``` r
 # install.packges("Distance")
 library(Distance)
-```
 
-    ## Loading required package: mrds
-
-    ## This is mrds 3.0.0
-    ## Built: R 4.3.3; ; 2025-02-08 02:50:07 UTC; windows
-
-    ## 
-    ## Attaching package: 'Distance'
-
-    ## The following object is masked from 'package:mrds':
-    ## 
-    ##     create.bins
-
-``` r
 # vali liigiks metsvint
 sp <- "FRICOE"
 
@@ -246,10 +244,11 @@ flatfile %>%
   theme_minimal()
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 Lihtsa, vaid põhi ja abiriba vaatlusi arvestava arvukushinnangu saab
-anda distants-mudeli abil.
+anda distants-mudeli abil, kasutades lineaarset (*uniform*)
+märkamiskauguse kahanemise lähendit.
 
 ``` r
 fricoe.unif.null <-ds(
@@ -261,13 +260,6 @@ fricoe.unif.null <-ds(
   adjustment=NULL, 
   convert_units=0.001
 )
-```
-
-    ## Fitting uniform key function
-
-    ## AIC= 3512.87
-
-``` r
 fricoe.sum<-summary(fricoe.unif.null)
 ```
 
@@ -292,8 +284,8 @@ p <- fricoe.fit$chisquare$chi1$p
 df <- fricoe.fit$chisquare$chi1$df
 ```
 
-Hii-ruut testi kohaselt võib mudelit lugeda sobituvaks
-($\chi^2_{df=1}$=0,10; p=0,751).
+Hii-ruut testi kohaselt võib mudelit lugeda sobituvaks ($\chi^2_{df=1}$
+= 0,10; p = 0,751).
 
 ## Kasutatud allikad
 
